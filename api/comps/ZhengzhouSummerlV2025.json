@@ -1,0 +1,415 @@
+{
+  "formatVersion": "1.0",
+  "id": "ZhengzhouSummerlV2025",
+  "name": "Zhengzhou Summer lV 2025",
+  "shortName": "Zhengzhou Summer lV 2025",
+  "series": {
+    "id": "ZhengzhouSummer2025",
+    "name": "Zhengzhou Summer 2025",
+    "shortName": "Zhengzhou Summer 2025",
+    "competitionIds": [
+      "ZhengzhouSummerl2025",
+      "ZhengzhouSummerll2025",
+      "ZhengzhouSummerlll2025",
+      "ZhengzhouSummerlV2025"
+    ]
+  },
+  "persons": [
+    {
+      "name": "LY Cube Cultural and Creative Co., Ltd(洛阳魔方文化创意有限公司)",
+      "wcaUserId": 405635,
+      "wcaId": null,
+      "registrantId": null,
+      "countryIso2": "CN",
+      "gender": "m",
+      "registration": null,
+      "avatar": null,
+      "roles": [
+        "organizer"
+      ],
+      "assignments": [],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Xinyu Chen (陈鑫雨)",
+      "wcaUserId": 65869,
+      "wcaId": "2012CHEN26",
+      "registrantId": null,
+      "countryIso2": "CN",
+      "gender": "m",
+      "registration": null,
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2012CHEN26/1700560379.jpg",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2012CHEN26/1700560379_thumb.jpg"
+      },
+      "roles": [
+        "delegate"
+      ],
+      "assignments": [],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 634,
+          "worldRanking": 50600,
+          "continentalRanking": 15274,
+          "nationalRanking": 4876,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1217,
+          "worldRanking": 17892,
+          "continentalRanking": 6661,
+          "nationalRanking": 2233,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 3981,
+          "worldRanking": 33354,
+          "continentalRanking": 11991,
+          "nationalRanking": 3765,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 8370,
+          "worldRanking": 35160,
+          "continentalRanking": 11115,
+          "nationalRanking": 3479,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 1359,
+          "worldRanking": 7914,
+          "continentalRanking": 1857,
+          "nationalRanking": 548,
+          "type": "average"
+        },
+        {
+          "eventId": "magic",
+          "best": 205,
+          "worldRanking": 1871,
+          "continentalRanking": 886,
+          "nationalRanking": 445,
+          "type": "average"
+        },
+        {
+          "eventId": "mmagic",
+          "best": 445,
+          "worldRanking": 713,
+          "continentalRanking": 382,
+          "nationalRanking": 189,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 619,
+          "worldRanking": 5670,
+          "continentalRanking": 1560,
+          "nationalRanking": 544,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 492,
+          "worldRanking": 63099,
+          "continentalRanking": 18437,
+          "nationalRanking": 5660,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 838,
+          "worldRanking": 8097,
+          "continentalRanking": 2806,
+          "nationalRanking": 924,
+          "type": "single"
+        },
+        {
+          "eventId": "333fm",
+          "best": 53,
+          "worldRanking": 9330,
+          "continentalRanking": 2525,
+          "nationalRanking": 813,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 2544,
+          "worldRanking": 22981,
+          "continentalRanking": 8521,
+          "nationalRanking": 2887,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 5844,
+          "worldRanking": 25472,
+          "continentalRanking": 8585,
+          "nationalRanking": 2981,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 1076,
+          "worldRanking": 7430,
+          "continentalRanking": 1784,
+          "nationalRanking": 516,
+          "type": "single"
+        },
+        {
+          "eventId": "magic",
+          "best": 93,
+          "worldRanking": 75,
+          "continentalRanking": 47,
+          "nationalRanking": 21,
+          "type": "single"
+        },
+        {
+          "eventId": "mmagic",
+          "best": 344,
+          "worldRanking": 621,
+          "continentalRanking": 345,
+          "nationalRanking": 168,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 360,
+          "worldRanking": 5161,
+          "continentalRanking": 1291,
+          "nationalRanking": 397,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    }
+  ],
+  "events": [
+    {
+      "id": "clock",
+      "rounds": [
+        {
+          "id": "clock-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 4000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": {
+            "numberOfAttempts": 2,
+            "attemptResult": 2000
+          },
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    },
+    {
+      "id": "minx",
+      "rounds": [
+        {
+          "id": "minx-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 12000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": {
+            "numberOfAttempts": 2,
+            "attemptResult": 9000
+          },
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    },
+    {
+      "id": "pyram",
+      "rounds": [
+        {
+          "id": "pyram-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 4000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": {
+            "numberOfAttempts": 2,
+            "attemptResult": 2000
+          },
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    },
+    {
+      "id": "skewb",
+      "rounds": [
+        {
+          "id": "skewb-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 4000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": {
+            "numberOfAttempts": 2,
+            "attemptResult": 2000
+          },
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    },
+    {
+      "id": "sq1",
+      "rounds": [
+        {
+          "id": "sq1-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 6000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": {
+            "numberOfAttempts": 2,
+            "attemptResult": 3500
+          },
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    }
+  ],
+  "schedule": {
+    "startDate": "2025-08-24",
+    "numberOfDays": 1,
+    "venues": [
+      {
+        "id": 1,
+        "name": "Super 8 Hotel (Zhengzhou Railway Station Ticket Office)",
+        "latitudeMicrodegrees": 34748480,
+        "longitudeMicrodegrees": 113654583,
+        "countryIso2": "CN",
+        "timezone": "Asia/Shanghai",
+        "rooms": [
+          {
+            "id": 1,
+            "name": "Meeting Room, 4th Floor",
+            "color": "#304a96",
+            "activities": [
+              {
+                "id": 1,
+                "name": "Opening Intro",
+                "activityCode": "other-misc",
+                "startTime": "2025-08-24T05:30:00Z",
+                "endTime": "2025-08-24T05:40:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 2,
+                "name": "Check-in",
+                "activityCode": "other-checkin",
+                "startTime": "2025-08-24T05:30:00Z",
+                "endTime": "2025-08-24T07:30:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 3,
+                "name": "Pyraminx, Round 1",
+                "activityCode": "pyram-r1",
+                "startTime": "2025-08-24T06:20:00Z",
+                "endTime": "2025-08-24T07:00:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 4,
+                "name": "Skewb, Round 1",
+                "activityCode": "skewb-r1",
+                "startTime": "2025-08-24T05:40:00Z",
+                "endTime": "2025-08-24T06:20:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 5,
+                "name": "Square-1, Round 1",
+                "activityCode": "sq1-r1",
+                "startTime": "2025-08-24T07:00:00Z",
+                "endTime": "2025-08-24T07:40:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 6,
+                "name": "Clock, Round 1",
+                "activityCode": "clock-r1",
+                "startTime": "2025-08-24T07:40:00Z",
+                "endTime": "2025-08-24T08:20:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 7,
+                "name": "Megaminx, Round 1",
+                "activityCode": "minx-r1",
+                "startTime": "2025-08-24T08:20:00Z",
+                "endTime": "2025-08-24T09:10:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 8,
+                "name": "Awards",
+                "activityCode": "other-awards",
+                "startTime": "2025-08-24T09:10:00Z",
+                "endTime": "2025-08-24T09:30:00Z",
+                "childActivities": [],
+                "extensions": []
+              }
+            ],
+            "extensions": []
+          }
+        ],
+        "extensions": []
+      }
+    ]
+  },
+  "competitorLimit": 100,
+  "extensions": [],
+  "registrationInfo": {
+    "openTime": "2025-07-26T12:00:00Z",
+    "closeTime": "2025-08-09T12:00:00Z",
+    "baseEntryFee": 12000,
+    "currencyCode": "CNY",
+    "onTheSpotRegistration": false,
+    "useWcaRegistration": false
+  }
+}
