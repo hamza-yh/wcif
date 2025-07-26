@@ -1,0 +1,55 @@
+name: Sync WCIF Data
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  
+  workflow_dispatch:           # allows manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    env:
+      DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+      DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+
+    steps:
+      - name: Checkout latest only
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Use Node.js 18
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch WCIFs and write JSON
+        run: node scripts/fetch.js
+
+      - name: Flatten history & force-push
+        env:
+          REPO_URL: https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+        run: |
+          # 1) Remove existing repo history
+          rm -rf .git
+
+          # 2) Re-init & configure identity
+          git init
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          # 3) Create branch, add & commit
+          git checkout -b main
+          git add .
+          git commit -m "chore: sync WCIF data"
+
+          # 4) Push back to GitHub, replacing everything on main
+          git remote add origin "$REPO_URL"
+          git push --force origin main
