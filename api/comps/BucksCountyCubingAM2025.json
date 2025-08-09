@@ -1,0 +1,7390 @@
+{
+  "formatVersion": "1.0",
+  "id": "BucksCountyCubingAM2025",
+  "name": "Bucks County Cubing AM 2025",
+  "shortName": "Bucks County Cubing AM 2025",
+  "series": {
+    "id": "BucksCountyCubing2025",
+    "name": "Bucks County Cubing 2025",
+    "shortName": "Bucks County Cubing 2025",
+    "competitionIds": [
+      "BucksCountyCubingAM2025",
+      "BucksCountyCubingPM2025"
+    ]
+  },
+  "persons": [
+    {
+      "name": "Adam McLaughlin",
+      "wcaUserId": 353257,
+      "wcaId": "2023MCLA02",
+      "registrantId": 2,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1153832,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2023MCLA02/1717241191.jpg",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2023MCLA02/1717241191_thumb.jpg"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 345,
+          "worldRanking": 6797,
+          "continentalRanking": 1944,
+          "nationalRanking": 1542,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1061,
+          "worldRanking": 9575,
+          "continentalRanking": 2490,
+          "nationalRanking": 1925,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 2107,
+          "worldRanking": 7950,
+          "continentalRanking": 1915,
+          "nationalRanking": 1395,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 4639,
+          "worldRanking": 8760,
+          "continentalRanking": 2172,
+          "nationalRanking": 1581,
+          "type": "average"
+        },
+        {
+          "eventId": "666",
+          "best": 26796,
+          "worldRanking": 9305,
+          "continentalRanking": 2762,
+          "nationalRanking": 2088,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 841,
+          "worldRanking": 2697,
+          "continentalRanking": 816,
+          "nationalRanking": 680,
+          "type": "average"
+        },
+        {
+          "eventId": "minx",
+          "best": 9311,
+          "worldRanking": 6932,
+          "continentalRanking": 1866,
+          "nationalRanking": 1359,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 600,
+          "worldRanking": 6891,
+          "continentalRanking": 1733,
+          "nationalRanking": 1352,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 678,
+          "worldRanking": 7505,
+          "continentalRanking": 2014,
+          "nationalRanking": 1557,
+          "type": "average"
+        },
+        {
+          "eventId": "sq1",
+          "best": 1957,
+          "worldRanking": 3180,
+          "continentalRanking": 1076,
+          "nationalRanking": 885,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 143,
+          "worldRanking": 2807,
+          "continentalRanking": 745,
+          "nationalRanking": 604,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 891,
+          "worldRanking": 11064,
+          "continentalRanking": 2911,
+          "nationalRanking": 2228,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1447,
+          "worldRanking": 4378,
+          "continentalRanking": 1087,
+          "nationalRanking": 820,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 3730,
+          "worldRanking": 6222,
+          "continentalRanking": 1536,
+          "nationalRanking": 1128,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 12469,
+          "worldRanking": 18732,
+          "continentalRanking": 5161,
+          "nationalRanking": 3844,
+          "type": "single"
+        },
+        {
+          "eventId": "666",
+          "best": 22245,
+          "worldRanking": 8877,
+          "continentalRanking": 2581,
+          "nationalRanking": 1933,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 713,
+          "worldRanking": 2957,
+          "continentalRanking": 886,
+          "nationalRanking": 738,
+          "type": "single"
+        },
+        {
+          "eventId": "minx",
+          "best": 8497,
+          "worldRanking": 7434,
+          "continentalRanking": 2004,
+          "nationalRanking": 1460,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 372,
+          "worldRanking": 7071,
+          "continentalRanking": 1781,
+          "nationalRanking": 1398,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 542,
+          "worldRanking": 13664,
+          "continentalRanking": 3827,
+          "nationalRanking": 3000,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 1501,
+          "worldRanking": 3583,
+          "continentalRanking": 1211,
+          "nationalRanking": 996,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Callan Gilchrist",
+      "wcaUserId": 340735,
+      "wcaId": "2023GILC02",
+      "registrantId": 3,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1153833,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2023GILC02/1689903838.jpeg",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2023GILC02/1689903838_thumb.jpeg"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 317,
+          "worldRanking": 4831,
+          "continentalRanking": 1364,
+          "nationalRanking": 1085,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1064,
+          "worldRanking": 9713,
+          "continentalRanking": 2527,
+          "nationalRanking": 1949,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1980,
+          "worldRanking": 6356,
+          "continentalRanking": 1529,
+          "nationalRanking": 1126,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 5140,
+          "worldRanking": 12862,
+          "continentalRanking": 3155,
+          "nationalRanking": 2288,
+          "type": "average"
+        },
+        {
+          "eventId": "555",
+          "best": 9801,
+          "worldRanking": 8955,
+          "continentalRanking": 2357,
+          "nationalRanking": 1737,
+          "type": "average"
+        },
+        {
+          "eventId": "777",
+          "best": 34335,
+          "worldRanking": 6448,
+          "continentalRanking": 1845,
+          "nationalRanking": 1378,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 959,
+          "worldRanking": 3832,
+          "continentalRanking": 1166,
+          "nationalRanking": 957,
+          "type": "average"
+        },
+        {
+          "eventId": "minx",
+          "best": 9593,
+          "worldRanking": 7442,
+          "continentalRanking": 1995,
+          "nationalRanking": 1455,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 805,
+          "worldRanking": 15815,
+          "continentalRanking": 3992,
+          "nationalRanking": 3091,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 775,
+          "worldRanking": 10747,
+          "continentalRanking": 2906,
+          "nationalRanking": 2239,
+          "type": "average"
+        },
+        {
+          "eventId": "sq1",
+          "best": 2476,
+          "worldRanking": 5137,
+          "continentalRanking": 1692,
+          "nationalRanking": 1384,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 199,
+          "worldRanking": 7296,
+          "continentalRanking": 2022,
+          "nationalRanking": 1594,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 835,
+          "worldRanking": 8059,
+          "continentalRanking": 2134,
+          "nationalRanking": 1642,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1490,
+          "worldRanking": 4952,
+          "continentalRanking": 1230,
+          "nationalRanking": 926,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 4373,
+          "worldRanking": 11890,
+          "continentalRanking": 2935,
+          "nationalRanking": 2122,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 9206,
+          "worldRanking": 10069,
+          "continentalRanking": 2647,
+          "nationalRanking": 1937,
+          "type": "single"
+        },
+        {
+          "eventId": "666",
+          "best": 24688,
+          "worldRanking": 10178,
+          "continentalRanking": 3017,
+          "nationalRanking": 2261,
+          "type": "single"
+        },
+        {
+          "eventId": "777",
+          "best": 31158,
+          "worldRanking": 6479,
+          "continentalRanking": 1827,
+          "nationalRanking": 1346,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 816,
+          "worldRanking": 4154,
+          "continentalRanking": 1228,
+          "nationalRanking": 1008,
+          "type": "single"
+        },
+        {
+          "eventId": "minx",
+          "best": 8602,
+          "worldRanking": 7633,
+          "continentalRanking": 2056,
+          "nationalRanking": 1502,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 431,
+          "worldRanking": 10351,
+          "continentalRanking": 2649,
+          "nationalRanking": 2056,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 429,
+          "worldRanking": 8231,
+          "continentalRanking": 2261,
+          "nationalRanking": 1778,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 1748,
+          "worldRanking": 4841,
+          "continentalRanking": 1596,
+          "nationalRanking": 1312,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Michael Pirollo",
+      "wcaUserId": 109027,
+      "wcaId": "2018PIRO02",
+      "registrantId": 4,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1153834,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 486,
+          "worldRanking": 24423,
+          "continentalRanking": 6873,
+          "nationalRanking": 5261,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1731,
+          "worldRanking": 55178,
+          "continentalRanking": 14017,
+          "nationalRanking": 10472,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 3437,
+          "worldRanking": 27079,
+          "continentalRanking": 6692,
+          "nationalRanking": 4899,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 7569,
+          "worldRanking": 31192,
+          "continentalRanking": 8362,
+          "nationalRanking": 6192,
+          "type": "average"
+        },
+        {
+          "eventId": "555",
+          "best": 16586,
+          "worldRanking": 20758,
+          "continentalRanking": 5899,
+          "nationalRanking": 4457,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 1197,
+          "worldRanking": 6384,
+          "continentalRanking": 1941,
+          "nationalRanking": 1579,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 728,
+          "worldRanking": 11898,
+          "continentalRanking": 2969,
+          "nationalRanking": 2304,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 623,
+          "worldRanking": 5853,
+          "continentalRanking": 1576,
+          "nationalRanking": 1215,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 196,
+          "worldRanking": 6983,
+          "continentalRanking": 1933,
+          "nationalRanking": 1520,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 1442,
+          "worldRanking": 55763,
+          "continentalRanking": 14257,
+          "nationalRanking": 10677,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 2613,
+          "worldRanking": 24392,
+          "continentalRanking": 6002,
+          "nationalRanking": 4394,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 6731,
+          "worldRanking": 33002,
+          "continentalRanking": 8711,
+          "nationalRanking": 6413,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 14538,
+          "worldRanking": 23035,
+          "continentalRanking": 6480,
+          "nationalRanking": 4838,
+          "type": "single"
+        },
+        {
+          "eventId": "666",
+          "best": 32297,
+          "worldRanking": 13011,
+          "continentalRanking": 4011,
+          "nationalRanking": 3026,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 1004,
+          "worldRanking": 6613,
+          "continentalRanking": 1973,
+          "nationalRanking": 1598,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 558,
+          "worldRanking": 19270,
+          "continentalRanking": 5089,
+          "nationalRanking": 3937,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 303,
+          "worldRanking": 3105,
+          "continentalRanking": 816,
+          "nationalRanking": 664,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "William Malenbaum",
+      "wcaUserId": 331844,
+      "wcaId": "2025MALE01",
+      "registrantId": 6,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1153865,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 1195,
+          "worldRanking": 116968,
+          "continentalRanking": 33799,
+          "nationalRanking": 25820,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 2328,
+          "worldRanking": 95227,
+          "continentalRanking": 25126,
+          "nationalRanking": 18874,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 543,
+          "worldRanking": 74204,
+          "continentalRanking": 21070,
+          "nationalRanking": 16088,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 2234,
+          "worldRanking": 117162,
+          "continentalRanking": 31572,
+          "nationalRanking": 23849,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 10885,
+          "worldRanking": 57418,
+          "continentalRanking": 16415,
+          "nationalRanking": 12377,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Maxwell Ryznic",
+      "wcaUserId": 314128,
+      "wcaId": "2023RYZN01",
+      "registrantId": 7,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1153884,
+        "eventIds": [
+          "222",
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2023RYZN01/1677951175.jpeg",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2023RYZN01/1677951175_thumb.jpeg"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 417,
+          "worldRanking": 14266,
+          "continentalRanking": 3996,
+          "nationalRanking": 3096,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1572,
+          "worldRanking": 43248,
+          "continentalRanking": 10867,
+          "nationalRanking": 8135,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1403,
+          "worldRanking": 58833,
+          "continentalRanking": 16866,
+          "nationalRanking": 13144,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 1354,
+          "worldRanking": 31724,
+          "continentalRanking": 9768,
+          "nationalRanking": 7742,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 328,
+          "worldRanking": 28753,
+          "continentalRanking": 8048,
+          "nationalRanking": 6115,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 1327,
+          "worldRanking": 45455,
+          "continentalRanking": 11500,
+          "nationalRanking": 8620,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 4488,
+          "worldRanking": 47466,
+          "continentalRanking": 12447,
+          "nationalRanking": 9157,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 871,
+          "worldRanking": 48926,
+          "continentalRanking": 13866,
+          "nationalRanking": 10781,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 1064,
+          "worldRanking": 38550,
+          "continentalRanking": 12145,
+          "nationalRanking": 9643,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Akshat Pant",
+      "wcaUserId": 350772,
+      "wcaId": "2023PANT05",
+      "registrantId": 8,
+      "countryIso2": "IN",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1153918,
+        "eventIds": [
+          "222",
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 2781,
+          "worldRanking": 156863,
+          "continentalRanking": 44894,
+          "nationalRanking": 9629,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 5099,
+          "worldRanking": 200714,
+          "continentalRanking": 63975,
+          "nationalRanking": 12110,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 1808,
+          "worldRanking": 158786,
+          "continentalRanking": 45477,
+          "nationalRanking": 9819,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 3950,
+          "worldRanking": 194600,
+          "continentalRanking": 62803,
+          "nationalRanking": 11671,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Matthew Park",
+      "wcaUserId": 466942,
+      "wcaId": null,
+      "registrantId": 9,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1153932,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Casey Ding",
+      "wcaUserId": 297135,
+      "wcaId": "2022DING07",
+      "registrantId": 10,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1154282,
+        "eventIds": [
+          "222",
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2022DING07/1702164534.jpg",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2022DING07/1702164534_thumb.jpg"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 291,
+          "worldRanking": 3408,
+          "continentalRanking": 977,
+          "nationalRanking": 784,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 860,
+          "worldRanking": 2594,
+          "continentalRanking": 738,
+          "nationalRanking": 590,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 5251,
+          "worldRanking": 13807,
+          "continentalRanking": 3395,
+          "nationalRanking": 2466,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 192,
+          "worldRanking": 6595,
+          "continentalRanking": 1813,
+          "nationalRanking": 1427,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 628,
+          "worldRanking": 1466,
+          "continentalRanking": 439,
+          "nationalRanking": 368,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 4538,
+          "worldRanking": 13480,
+          "continentalRanking": 3318,
+          "nationalRanking": 2402,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Mariana K. Lee",
+      "wcaUserId": 63282,
+      "wcaId": "2017LEEM04",
+      "registrantId": 12,
+      "countryIso2": "US",
+      "gender": "f",
+      "registration": {
+        "wcaRegistrationId": 1154301,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/gnbt7wz6zmi827fmawxbnuue58l6",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/wh3gf2lnbka8lx5w3pgdcjzqm33b"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 285,
+          "worldRanking": 3114,
+          "continentalRanking": 883,
+          "nationalRanking": 701,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1053,
+          "worldRanking": 9170,
+          "continentalRanking": 2391,
+          "nationalRanking": 1856,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 2259,
+          "worldRanking": 10036,
+          "continentalRanking": 2380,
+          "nationalRanking": 1738,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 4818,
+          "worldRanking": 10184,
+          "continentalRanking": 2517,
+          "nationalRanking": 1829,
+          "type": "average"
+        },
+        {
+          "eventId": "555",
+          "best": 10280,
+          "worldRanking": 10287,
+          "continentalRanking": 2718,
+          "nationalRanking": 1999,
+          "type": "average"
+        },
+        {
+          "eventId": "666",
+          "best": 19300,
+          "worldRanking": 5867,
+          "continentalRanking": 1666,
+          "nationalRanking": 1243,
+          "type": "average"
+        },
+        {
+          "eventId": "777",
+          "best": 32322,
+          "worldRanking": 5876,
+          "continentalRanking": 1668,
+          "nationalRanking": 1235,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 913,
+          "worldRanking": 3348,
+          "continentalRanking": 1014,
+          "nationalRanking": 835,
+          "type": "average"
+        },
+        {
+          "eventId": "minx",
+          "best": 6146,
+          "worldRanking": 2011,
+          "continentalRanking": 549,
+          "nationalRanking": 417,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 248,
+          "worldRanking": 341,
+          "continentalRanking": 91,
+          "nationalRanking": 80,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 586,
+          "worldRanking": 4783,
+          "continentalRanking": 1263,
+          "nationalRanking": 983,
+          "type": "average"
+        },
+        {
+          "eventId": "sq1",
+          "best": 2106,
+          "worldRanking": 3762,
+          "continentalRanking": 1260,
+          "nationalRanking": 1033,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 161,
+          "worldRanking": 4083,
+          "continentalRanking": 1113,
+          "nationalRanking": 889,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 805,
+          "worldRanking": 6701,
+          "continentalRanking": 1815,
+          "nationalRanking": 1404,
+          "type": "single"
+        },
+        {
+          "eventId": "333fm",
+          "best": 36,
+          "worldRanking": 3618,
+          "continentalRanking": 800,
+          "nationalRanking": 630,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1714,
+          "worldRanking": 8230,
+          "continentalRanking": 2005,
+          "nationalRanking": 1470,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 3928,
+          "worldRanking": 7872,
+          "continentalRanking": 1913,
+          "nationalRanking": 1394,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 9356,
+          "worldRanking": 10570,
+          "continentalRanking": 2791,
+          "nationalRanking": 2046,
+          "type": "single"
+        },
+        {
+          "eventId": "666",
+          "best": 18320,
+          "worldRanking": 6162,
+          "continentalRanking": 1755,
+          "nationalRanking": 1309,
+          "type": "single"
+        },
+        {
+          "eventId": "777",
+          "best": 29586,
+          "worldRanking": 5850,
+          "continentalRanking": 1641,
+          "nationalRanking": 1207,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 699,
+          "worldRanking": 2812,
+          "continentalRanking": 843,
+          "nationalRanking": 703,
+          "type": "single"
+        },
+        {
+          "eventId": "minx",
+          "best": 5762,
+          "worldRanking": 2486,
+          "continentalRanking": 683,
+          "nationalRanking": 511,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 133,
+          "worldRanking": 222,
+          "continentalRanking": 59,
+          "nationalRanking": 52,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 378,
+          "worldRanking": 5967,
+          "continentalRanking": 1620,
+          "nationalRanking": 1273,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 1786,
+          "worldRanking": 5058,
+          "continentalRanking": 1669,
+          "nationalRanking": 1370,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Finnegan Chambley",
+      "wcaUserId": 219976,
+      "wcaId": "2021CHAM01",
+      "registrantId": 13,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1154443,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 402,
+          "worldRanking": 12432,
+          "continentalRanking": 3466,
+          "nationalRanking": 2687,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1261,
+          "worldRanking": 20847,
+          "continentalRanking": 5301,
+          "nationalRanking": 4039,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 3619,
+          "worldRanking": 29362,
+          "continentalRanking": 7344,
+          "nationalRanking": 5361,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 5979,
+          "worldRanking": 20129,
+          "continentalRanking": 5053,
+          "nationalRanking": 3670,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 1774,
+          "worldRanking": 11799,
+          "continentalRanking": 3674,
+          "nationalRanking": 3042,
+          "type": "average"
+        },
+        {
+          "eventId": "minx",
+          "best": 13494,
+          "worldRanking": 13108,
+          "continentalRanking": 3828,
+          "nationalRanking": 2805,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 661,
+          "worldRanking": 9073,
+          "continentalRanking": 2265,
+          "nationalRanking": 1757,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 727,
+          "worldRanking": 9050,
+          "continentalRanking": 2411,
+          "nationalRanking": 1858,
+          "type": "average"
+        },
+        {
+          "eventId": "sq1",
+          "best": 3881,
+          "worldRanking": 10396,
+          "continentalRanking": 3428,
+          "nationalRanking": 2784,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 186,
+          "worldRanking": 6079,
+          "continentalRanking": 1662,
+          "nationalRanking": 1310,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 1017,
+          "worldRanking": 19210,
+          "continentalRanking": 4989,
+          "nationalRanking": 3811,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 2755,
+          "worldRanking": 26785,
+          "continentalRanking": 6639,
+          "nationalRanking": 4857,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 5439,
+          "worldRanking": 22076,
+          "continentalRanking": 5598,
+          "nationalRanking": 4064,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 13691,
+          "worldRanking": 21408,
+          "continentalRanking": 5966,
+          "nationalRanking": 4451,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 1495,
+          "worldRanking": 12482,
+          "continentalRanking": 3835,
+          "nationalRanking": 3154,
+          "type": "single"
+        },
+        {
+          "eventId": "minx",
+          "best": 12917,
+          "worldRanking": 15375,
+          "continentalRanking": 4491,
+          "nationalRanking": 3272,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 491,
+          "worldRanking": 14268,
+          "continentalRanking": 3682,
+          "nationalRanking": 2851,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 474,
+          "worldRanking": 10321,
+          "continentalRanking": 2852,
+          "nationalRanking": 2247,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 2347,
+          "worldRanking": 7897,
+          "continentalRanking": 2574,
+          "nationalRanking": 2096,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Stephen A. Duc Jr.",
+      "wcaUserId": 430438,
+      "wcaId": "2024DUCS01",
+      "registrantId": 14,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1154492,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/g9zhytyoh38jsozco7ek3w69o99z",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/kouaopvnf2vyw37szd9ompvxn6nd"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 1416,
+          "worldRanking": 128538,
+          "continentalRanking": 37200,
+          "nationalRanking": 28509,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 3922,
+          "worldRanking": 168614,
+          "continentalRanking": 46996,
+          "nationalRanking": 35786,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1263,
+          "worldRanking": 48454,
+          "continentalRanking": 13690,
+          "nationalRanking": 10630,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 875,
+          "worldRanking": 121332,
+          "continentalRanking": 35028,
+          "nationalRanking": 26792,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 3056,
+          "worldRanking": 161382,
+          "continentalRanking": 44656,
+          "nationalRanking": 33905,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 857,
+          "worldRanking": 47528,
+          "continentalRanking": 13457,
+          "nationalRanking": 10462,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Alexander Glushkov",
+      "wcaUserId": 471748,
+      "wcaId": "2025GLUS01",
+      "registrantId": 15,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1154791,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 1229,
+          "worldRanking": 118976,
+          "continentalRanking": 34381,
+          "nationalRanking": 26279,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 2907,
+          "worldRanking": 127323,
+          "continentalRanking": 34632,
+          "nationalRanking": 26173,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1684,
+          "worldRanking": 76806,
+          "continentalRanking": 22431,
+          "nationalRanking": 17442,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 2917,
+          "worldRanking": 58429,
+          "continentalRanking": 19234,
+          "nationalRanking": 15358,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 758,
+          "worldRanking": 108958,
+          "continentalRanking": 31413,
+          "nationalRanking": 24009,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 2531,
+          "worldRanking": 135153,
+          "continentalRanking": 36845,
+          "nationalRanking": 27847,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1532,
+          "worldRanking": 96826,
+          "continentalRanking": 28212,
+          "nationalRanking": 21905,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 2407,
+          "worldRanking": 62161,
+          "continentalRanking": 20254,
+          "nationalRanking": 16186,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Euchang Kim",
+      "wcaUserId": 454926,
+      "wcaId": "2024KIME07",
+      "registrantId": 16,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1154822,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 1185,
+          "worldRanking": 116349,
+          "continentalRanking": 33594,
+          "nationalRanking": 25664,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 3309,
+          "worldRanking": 145611,
+          "continentalRanking": 40111,
+          "nationalRanking": 30385,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 780,
+          "worldRanking": 111609,
+          "continentalRanking": 32220,
+          "nationalRanking": 24646,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 2984,
+          "worldRanking": 158169,
+          "continentalRanking": 43742,
+          "nationalRanking": 33177,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Averie Ryan",
+      "wcaUserId": 444833,
+      "wcaId": "2025RYAN04",
+      "registrantId": 17,
+      "countryIso2": "US",
+      "gender": "f",
+      "registration": {
+        "wcaRegistrationId": 1155071,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "333",
+          "best": 4215,
+          "worldRanking": 177796,
+          "continentalRanking": 49760,
+          "nationalRanking": 37973,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1407,
+          "worldRanking": 59110,
+          "continentalRanking": 16946,
+          "nationalRanking": 13200,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 1858,
+          "worldRanking": 45229,
+          "continentalRanking": 14586,
+          "nationalRanking": 11602,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 3070,
+          "worldRanking": 161998,
+          "continentalRanking": 44841,
+          "nationalRanking": 34051,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1285,
+          "worldRanking": 84028,
+          "continentalRanking": 24523,
+          "nationalRanking": 19064,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 1244,
+          "worldRanking": 44819,
+          "continentalRanking": 14397,
+          "nationalRanking": 11443,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Joshua Nash",
+      "wcaUserId": 77889,
+      "wcaId": "2008NASH01",
+      "registrantId": 18,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1155744,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 868,
+          "worldRanking": 87500,
+          "continentalRanking": 25082,
+          "nationalRanking": 19145,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 2374,
+          "worldRanking": 98094,
+          "continentalRanking": 26013,
+          "nationalRanking": 19540,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 5490,
+          "worldRanking": 44510,
+          "continentalRanking": 11874,
+          "nationalRanking": 8756,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 9864,
+          "worldRanking": 40951,
+          "continentalRanking": 11390,
+          "nationalRanking": 8592,
+          "type": "average"
+        },
+        {
+          "eventId": "555",
+          "best": 17287,
+          "worldRanking": 21219,
+          "continentalRanking": 6042,
+          "nationalRanking": 4556,
+          "type": "average"
+        },
+        {
+          "eventId": "666",
+          "best": 30530,
+          "worldRanking": 10058,
+          "continentalRanking": 2975,
+          "nationalRanking": 2249,
+          "type": "average"
+        },
+        {
+          "eventId": "777",
+          "best": 46946,
+          "worldRanking": 8093,
+          "continentalRanking": 2326,
+          "nationalRanking": 1736,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1664,
+          "worldRanking": 75742,
+          "continentalRanking": 22098,
+          "nationalRanking": 17182,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 1863,
+          "worldRanking": 45343,
+          "continentalRanking": 14623,
+          "nationalRanking": 11629,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 444,
+          "worldRanking": 53411,
+          "continentalRanking": 15005,
+          "nationalRanking": 11424,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 1795,
+          "worldRanking": 85324,
+          "continentalRanking": 22302,
+          "nationalRanking": 16744,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 4018,
+          "worldRanking": 43450,
+          "continentalRanking": 11286,
+          "nationalRanking": 8272,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 8842,
+          "worldRanking": 47014,
+          "continentalRanking": 12953,
+          "nationalRanking": 9659,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 15322,
+          "worldRanking": 24440,
+          "continentalRanking": 6925,
+          "nationalRanking": 5188,
+          "type": "single"
+        },
+        {
+          "eventId": "666",
+          "best": 29601,
+          "worldRanking": 12244,
+          "continentalRanking": 3713,
+          "nationalRanking": 2797,
+          "type": "single"
+        },
+        {
+          "eventId": "777",
+          "best": 43576,
+          "worldRanking": 10080,
+          "continentalRanking": 2992,
+          "nationalRanking": 2239,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 3454,
+          "worldRanking": 23536,
+          "continentalRanking": 7815,
+          "nationalRanking": 6491,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1215,
+          "worldRanking": 79319,
+          "continentalRanking": 23123,
+          "nationalRanking": 17976,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 1499,
+          "worldRanking": 51507,
+          "continentalRanking": 16786,
+          "nationalRanking": 13359,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Christian Attrill",
+      "wcaUserId": 436241,
+      "wcaId": "2024ATTR01",
+      "registrantId": 20,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1156230,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 468,
+          "worldRanking": 21578,
+          "continentalRanking": 6058,
+          "nationalRanking": 4645,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1276,
+          "worldRanking": 21745,
+          "continentalRanking": 5504,
+          "nationalRanking": 4192,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 4237,
+          "worldRanking": 36266,
+          "continentalRanking": 9379,
+          "nationalRanking": 6870,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 1839,
+          "worldRanking": 44827,
+          "continentalRanking": 14439,
+          "nationalRanking": 11483,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 238,
+          "worldRanking": 12361,
+          "continentalRanking": 3422,
+          "nationalRanking": 2641,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 1100,
+          "worldRanking": 25515,
+          "continentalRanking": 6519,
+          "nationalRanking": 4943,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 3057,
+          "worldRanking": 31660,
+          "continentalRanking": 7990,
+          "nationalRanking": 5832,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 9292,
+          "worldRanking": 49563,
+          "continentalRanking": 13785,
+          "nationalRanking": 10302,
+          "type": "single"
+        },
+        {
+          "eventId": "minx",
+          "best": 15601,
+          "worldRanking": 19504,
+          "continentalRanking": 5777,
+          "nationalRanking": 4203,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 1017,
+          "worldRanking": 36641,
+          "continentalRanking": 11451,
+          "nationalRanking": 9079,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Maksym Shvets",
+      "wcaUserId": 487019,
+      "wcaId": null,
+      "registrantId": 21,
+      "countryIso2": "UA",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1156403,
+        "eventIds": [
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Dylan Bowles",
+      "wcaUserId": 398733,
+      "wcaId": "2024BOWL01",
+      "registrantId": 23,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1156888,
+        "eventIds": [
+          "222",
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2024BOWL01/1713490194.JPG",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2024BOWL01/1713490194_thumb.JPG"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 603,
+          "worldRanking": 45327,
+          "continentalRanking": 12790,
+          "nationalRanking": 9766,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 2736,
+          "worldRanking": 118651,
+          "continentalRanking": 32050,
+          "nationalRanking": 24180,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 7649,
+          "worldRanking": 49323,
+          "continentalRanking": 13326,
+          "nationalRanking": 9838,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1964,
+          "worldRanking": 89384,
+          "continentalRanking": 26199,
+          "nationalRanking": 20382,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 396,
+          "worldRanking": 42950,
+          "continentalRanking": 12005,
+          "nationalRanking": 9137,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 2295,
+          "worldRanking": 120916,
+          "continentalRanking": 32682,
+          "nationalRanking": 24700,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 6795,
+          "worldRanking": 58657,
+          "continentalRanking": 16079,
+          "nationalRanking": 11973,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1216,
+          "worldRanking": 79400,
+          "continentalRanking": 23153,
+          "nationalRanking": 18001,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Brendan Paul",
+      "wcaUserId": 487277,
+      "wcaId": null,
+      "registrantId": 24,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1157288,
+        "eventIds": [
+          "222",
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Max Chan",
+      "wcaUserId": 26493,
+      "wcaId": "2015CHAN37",
+      "registrantId": 25,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1157607,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2015CHAN37/1690771691.jpg",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2015CHAN37/1690771691_thumb.jpg"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 224,
+          "worldRanking": 1168,
+          "continentalRanking": 327,
+          "nationalRanking": 277,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 778,
+          "worldRanking": 1169,
+          "continentalRanking": 357,
+          "nationalRanking": 299,
+          "type": "average"
+        },
+        {
+          "eventId": "333fm",
+          "best": 5033,
+          "worldRanking": 4527,
+          "continentalRanking": 1047,
+          "nationalRanking": 811,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1508,
+          "worldRanking": 1673,
+          "continentalRanking": 454,
+          "nationalRanking": 362,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 3115,
+          "worldRanking": 759,
+          "continentalRanking": 203,
+          "nationalRanking": 165,
+          "type": "average"
+        },
+        {
+          "eventId": "555",
+          "best": 5703,
+          "worldRanking": 584,
+          "continentalRanking": 157,
+          "nationalRanking": 127,
+          "type": "average"
+        },
+        {
+          "eventId": "666",
+          "best": 10850,
+          "worldRanking": 513,
+          "continentalRanking": 139,
+          "nationalRanking": 107,
+          "type": "average"
+        },
+        {
+          "eventId": "777",
+          "best": 19775,
+          "worldRanking": 1307,
+          "continentalRanking": 347,
+          "nationalRanking": 262,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 804,
+          "worldRanking": 2393,
+          "continentalRanking": 721,
+          "nationalRanking": 605,
+          "type": "average"
+        },
+        {
+          "eventId": "minx",
+          "best": 6326,
+          "worldRanking": 2234,
+          "continentalRanking": 618,
+          "nationalRanking": 468,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 359,
+          "worldRanking": 1442,
+          "continentalRanking": 377,
+          "nationalRanking": 308,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 450,
+          "worldRanking": 1774,
+          "continentalRanking": 454,
+          "nationalRanking": 372,
+          "type": "average"
+        },
+        {
+          "eventId": "sq1",
+          "best": 1286,
+          "worldRanking": 1063,
+          "continentalRanking": 366,
+          "nationalRanking": 316,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 149,
+          "worldRanking": 3212,
+          "continentalRanking": 874,
+          "nationalRanking": 702,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 601,
+          "worldRanking": 1056,
+          "continentalRanking": 311,
+          "nationalRanking": 268,
+          "type": "single"
+        },
+        {
+          "eventId": "333bf",
+          "best": 51764,
+          "worldRanking": 10592,
+          "continentalRanking": 2441,
+          "nationalRanking": 1808,
+          "type": "single"
+        },
+        {
+          "eventId": "333fm",
+          "best": 34,
+          "worldRanking": 2892,
+          "continentalRanking": 624,
+          "nationalRanking": 509,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1276,
+          "worldRanking": 2489,
+          "continentalRanking": 657,
+          "nationalRanking": 511,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 2633,
+          "worldRanking": 690,
+          "continentalRanking": 187,
+          "nationalRanking": 157,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 5098,
+          "worldRanking": 587,
+          "continentalRanking": 154,
+          "nationalRanking": 127,
+          "type": "single"
+        },
+        {
+          "eventId": "666",
+          "best": 10468,
+          "worldRanking": 650,
+          "continentalRanking": 176,
+          "nationalRanking": 139,
+          "type": "single"
+        },
+        {
+          "eventId": "777",
+          "best": 19102,
+          "worldRanking": 1475,
+          "continentalRanking": 391,
+          "nationalRanking": 299,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 718,
+          "worldRanking": 3007,
+          "continentalRanking": 898,
+          "nationalRanking": 747,
+          "type": "single"
+        },
+        {
+          "eventId": "minx",
+          "best": 5884,
+          "worldRanking": 2671,
+          "continentalRanking": 745,
+          "nationalRanking": 551,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 161,
+          "worldRanking": 547,
+          "continentalRanking": 148,
+          "nationalRanking": 129,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 332,
+          "worldRanking": 4119,
+          "continentalRanking": 1103,
+          "nationalRanking": 885,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 902,
+          "worldRanking": 960,
+          "continentalRanking": 340,
+          "nationalRanking": 295,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Alex McDaniel",
+      "wcaUserId": 487420,
+      "wcaId": null,
+      "registrantId": 26,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1159292,
+        "eventIds": [
+          "222",
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Elayne Zhang",
+      "wcaUserId": 355992,
+      "wcaId": "2023ZHAN28",
+      "registrantId": 27,
+      "countryIso2": "US",
+      "gender": "f",
+      "registration": {
+        "wcaRegistrationId": 1160015,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 389,
+          "worldRanking": 10950,
+          "continentalRanking": 3074,
+          "nationalRanking": 2384,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1200,
+          "worldRanking": 17030,
+          "continentalRanking": 4363,
+          "nationalRanking": 3327,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 5293,
+          "worldRanking": 14199,
+          "continentalRanking": 3491,
+          "nationalRanking": 2535,
+          "type": "average"
+        },
+        {
+          "eventId": "666",
+          "best": 38542,
+          "worldRanking": 10695,
+          "continentalRanking": 3147,
+          "nationalRanking": 2379,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 2069,
+          "worldRanking": 13898,
+          "continentalRanking": 4400,
+          "nationalRanking": 3646,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 681,
+          "worldRanking": 9868,
+          "continentalRanking": 2473,
+          "nationalRanking": 1913,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 736,
+          "worldRanking": 9371,
+          "continentalRanking": 2516,
+          "nationalRanking": 1935,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 333,
+          "worldRanking": 29773,
+          "continentalRanking": 8321,
+          "nationalRanking": 6325,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 866,
+          "worldRanking": 9680,
+          "continentalRanking": 2541,
+          "nationalRanking": 1954,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 4463,
+          "worldRanking": 12748,
+          "continentalRanking": 3153,
+          "nationalRanking": 2281,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 12605,
+          "worldRanking": 19055,
+          "continentalRanking": 5251,
+          "nationalRanking": 3906,
+          "type": "single"
+        },
+        {
+          "eventId": "666",
+          "best": 33536,
+          "worldRanking": 13301,
+          "continentalRanking": 4122,
+          "nationalRanking": 3119,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 1625,
+          "worldRanking": 13802,
+          "continentalRanking": 4267,
+          "nationalRanking": 3515,
+          "type": "single"
+        },
+        {
+          "eventId": "minx",
+          "best": 14307,
+          "worldRanking": 17571,
+          "continentalRanking": 5153,
+          "nationalRanking": 3739,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 448,
+          "worldRanking": 11373,
+          "continentalRanking": 2921,
+          "nationalRanking": 2267,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 582,
+          "worldRanking": 15687,
+          "continentalRanking": 4476,
+          "nationalRanking": 3499,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 5259,
+          "worldRanking": 17656,
+          "continentalRanking": 5813,
+          "nationalRanking": 4650,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Hector Faltum",
+      "wcaUserId": 456583,
+      "wcaId": "2025FALT01",
+      "registrantId": 29,
+      "countryIso2": "DK",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1161118,
+        "eventIds": [
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "333",
+          "best": 7152,
+          "worldRanking": 229646,
+          "continentalRanking": 55807,
+          "nationalRanking": 1003,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 4763,
+          "worldRanking": 215088,
+          "continentalRanking": 52102,
+          "nationalRanking": 936,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Dylan Gesmundo",
+      "wcaUserId": 333044,
+      "wcaId": "2023GESM01",
+      "registrantId": 30,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1162506,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 346,
+          "worldRanking": 6877,
+          "continentalRanking": 1967,
+          "nationalRanking": 1556,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1019,
+          "worldRanking": 7724,
+          "continentalRanking": 2016,
+          "nationalRanking": 1576,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 2513,
+          "worldRanking": 13760,
+          "continentalRanking": 3221,
+          "nationalRanking": 2356,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 4911,
+          "worldRanking": 10942,
+          "continentalRanking": 2682,
+          "nationalRanking": 1951,
+          "type": "average"
+        },
+        {
+          "eventId": "555",
+          "best": 11803,
+          "worldRanking": 14090,
+          "continentalRanking": 3808,
+          "nationalRanking": 2838,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 879,
+          "worldRanking": 3023,
+          "continentalRanking": 918,
+          "nationalRanking": 761,
+          "type": "average"
+        },
+        {
+          "eventId": "minx",
+          "best": 9259,
+          "worldRanking": 6844,
+          "continentalRanking": 1850,
+          "nationalRanking": 1349,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 432,
+          "worldRanking": 2602,
+          "continentalRanking": 658,
+          "nationalRanking": 527,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 675,
+          "worldRanking": 7409,
+          "continentalRanking": 1986,
+          "nationalRanking": 1533,
+          "type": "average"
+        },
+        {
+          "eventId": "sq1",
+          "best": 2602,
+          "worldRanking": 5643,
+          "continentalRanking": 1839,
+          "nationalRanking": 1497,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 239,
+          "worldRanking": 12539,
+          "continentalRanking": 3471,
+          "nationalRanking": 2677,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 865,
+          "worldRanking": 9619,
+          "continentalRanking": 2531,
+          "nationalRanking": 1946,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1961,
+          "worldRanking": 12543,
+          "continentalRanking": 3023,
+          "nationalRanking": 2225,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 4486,
+          "worldRanking": 12982,
+          "continentalRanking": 3215,
+          "nationalRanking": 2325,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 10683,
+          "worldRanking": 14376,
+          "continentalRanking": 3839,
+          "nationalRanking": 2844,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 810,
+          "worldRanking": 4073,
+          "continentalRanking": 1206,
+          "nationalRanking": 991,
+          "type": "single"
+        },
+        {
+          "eventId": "minx",
+          "best": 8008,
+          "worldRanking": 6464,
+          "continentalRanking": 1747,
+          "nationalRanking": 1281,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 235,
+          "worldRanking": 1987,
+          "continentalRanking": 504,
+          "nationalRanking": 405,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 255,
+          "worldRanking": 1813,
+          "continentalRanking": 485,
+          "nationalRanking": 391,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 1673,
+          "worldRanking": 4457,
+          "continentalRanking": 1490,
+          "nationalRanking": 1227,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Nina Ozsvath",
+      "wcaUserId": 279573,
+      "wcaId": "2022OZSV03",
+      "registrantId": 31,
+      "countryIso2": "US",
+      "gender": "f",
+      "registration": {
+        "wcaRegistrationId": 1163041,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/qmcgo8dx11vtt9xoa4rmtl4fyzbb",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/goq00edoxauzuosoan4f1frdseed"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 180,
+          "worldRanking": 507,
+          "continentalRanking": 141,
+          "nationalRanking": 122,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 959,
+          "worldRanking": 5365,
+          "continentalRanking": 1436,
+          "nationalRanking": 1111,
+          "type": "average"
+        },
+        {
+          "eventId": "333fm",
+          "best": 4733,
+          "worldRanking": 4108,
+          "continentalRanking": 951,
+          "nationalRanking": 738,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1897,
+          "worldRanking": 5360,
+          "continentalRanking": 1293,
+          "nationalRanking": 955,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 3397,
+          "worldRanking": 1528,
+          "continentalRanking": 405,
+          "nationalRanking": 320,
+          "type": "average"
+        },
+        {
+          "eventId": "555",
+          "best": 6318,
+          "worldRanking": 1212,
+          "continentalRanking": 321,
+          "nationalRanking": 258,
+          "type": "average"
+        },
+        {
+          "eventId": "666",
+          "best": 11529,
+          "worldRanking": 767,
+          "continentalRanking": 203,
+          "nationalRanking": 161,
+          "type": "average"
+        },
+        {
+          "eventId": "777",
+          "best": 18464,
+          "worldRanking": 923,
+          "continentalRanking": 249,
+          "nationalRanking": 193,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 681,
+          "worldRanking": 1428,
+          "continentalRanking": 442,
+          "nationalRanking": 374,
+          "type": "average"
+        },
+        {
+          "eventId": "minx",
+          "best": 9433,
+          "worldRanking": 7152,
+          "continentalRanking": 1918,
+          "nationalRanking": 1402,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 491,
+          "worldRanking": 3867,
+          "continentalRanking": 977,
+          "nationalRanking": 777,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 578,
+          "worldRanking": 4570,
+          "continentalRanking": 1206,
+          "nationalRanking": 942,
+          "type": "average"
+        },
+        {
+          "eventId": "sq1",
+          "best": 1814,
+          "worldRanking": 2660,
+          "continentalRanking": 901,
+          "nationalRanking": 745,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 102,
+          "worldRanking": 858,
+          "continentalRanking": 240,
+          "nationalRanking": 193,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 776,
+          "worldRanking": 5522,
+          "continentalRanking": 1530,
+          "nationalRanking": 1197,
+          "type": "single"
+        },
+        {
+          "eventId": "333fm",
+          "best": 46,
+          "worldRanking": 7536,
+          "continentalRanking": 1652,
+          "nationalRanking": 1261,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1482,
+          "worldRanking": 4838,
+          "continentalRanking": 1194,
+          "nationalRanking": 902,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 2934,
+          "worldRanking": 1580,
+          "continentalRanking": 409,
+          "nationalRanking": 321,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 5672,
+          "worldRanking": 1240,
+          "continentalRanking": 329,
+          "nationalRanking": 264,
+          "type": "single"
+        },
+        {
+          "eventId": "666",
+          "best": 10515,
+          "worldRanking": 673,
+          "continentalRanking": 185,
+          "nationalRanking": 147,
+          "type": "single"
+        },
+        {
+          "eventId": "777",
+          "best": 17263,
+          "worldRanking": 888,
+          "continentalRanking": 238,
+          "nationalRanking": 185,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 611,
+          "worldRanking": 1949,
+          "continentalRanking": 588,
+          "nationalRanking": 502,
+          "type": "single"
+        },
+        {
+          "eventId": "minx",
+          "best": 8089,
+          "worldRanking": 6637,
+          "continentalRanking": 1786,
+          "nationalRanking": 1310,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 265,
+          "worldRanking": 2814,
+          "continentalRanking": 732,
+          "nationalRanking": 584,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 378,
+          "worldRanking": 5967,
+          "continentalRanking": 1620,
+          "nationalRanking": 1273,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 1136,
+          "worldRanking": 1864,
+          "continentalRanking": 659,
+          "nationalRanking": 554,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Arjun Mohanan",
+      "wcaUserId": 266723,
+      "wcaId": "2022MOHA07",
+      "registrantId": 32,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1163188,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2022MOHA07/1657918615.jpg",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2022MOHA07/1657918615_thumb.jpg"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 392,
+          "worldRanking": 11272,
+          "continentalRanking": 3162,
+          "nationalRanking": 2448,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1893,
+          "worldRanking": 66759,
+          "continentalRanking": 17057,
+          "nationalRanking": 12723,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 944,
+          "worldRanking": 24435,
+          "continentalRanking": 6482,
+          "nationalRanking": 5020,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 1917,
+          "worldRanking": 46445,
+          "continentalRanking": 15043,
+          "nationalRanking": 11967,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 228,
+          "worldRanking": 10903,
+          "continentalRanking": 3037,
+          "nationalRanking": 2352,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 1574,
+          "worldRanking": 67311,
+          "continentalRanking": 17392,
+          "nationalRanking": 13040,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 10089,
+          "worldRanking": 64259,
+          "continentalRanking": 17970,
+          "nationalRanking": 13450,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 14459,
+          "worldRanking": 68364,
+          "continentalRanking": 20143,
+          "nationalRanking": 15300,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 608,
+          "worldRanking": 23541,
+          "continentalRanking": 6281,
+          "nationalRanking": 4876,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 1393,
+          "worldRanking": 49003,
+          "continentalRanking": 15834,
+          "nationalRanking": 12595,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 17511,
+          "worldRanking": 22579,
+          "continentalRanking": 7597,
+          "nationalRanking": 6076,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Erfaan Fazelinia",
+      "wcaUserId": 301938,
+      "wcaId": "2022FAZE01",
+      "registrantId": 35,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1165708,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 583,
+          "worldRanking": 41606,
+          "continentalRanking": 11720,
+          "nationalRanking": 8939,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 2065,
+          "worldRanking": 78447,
+          "continentalRanking": 20311,
+          "nationalRanking": 15208,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 6110,
+          "worldRanking": 46674,
+          "continentalRanking": 12546,
+          "nationalRanking": 9247,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1380,
+          "worldRanking": 57236,
+          "continentalRanking": 16377,
+          "nationalRanking": 12759,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 846,
+          "worldRanking": 13248,
+          "continentalRanking": 3649,
+          "nationalRanking": 2809,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 315,
+          "worldRanking": 26157,
+          "continentalRanking": 7334,
+          "nationalRanking": 5570,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 1835,
+          "worldRanking": 88429,
+          "continentalRanking": 23199,
+          "nationalRanking": 17435,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 4700,
+          "worldRanking": 49060,
+          "continentalRanking": 12912,
+          "nationalRanking": 9515,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 2242,
+          "worldRanking": 18690,
+          "continentalRanking": 6046,
+          "nationalRanking": 4993,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 909,
+          "worldRanking": 52788,
+          "continentalRanking": 15006,
+          "nationalRanking": 11655,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 592,
+          "worldRanking": 16196,
+          "continentalRanking": 4604,
+          "nationalRanking": 3603,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "David Thomas",
+      "wcaUserId": 408177,
+      "wcaId": "2025THOM24",
+      "registrantId": 37,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1166236,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 1502,
+          "worldRanking": 132205,
+          "continentalRanking": 38300,
+          "nationalRanking": 29370,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 3079,
+          "worldRanking": 135339,
+          "continentalRanking": 37026,
+          "nationalRanking": 28006,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 1107,
+          "worldRanking": 137677,
+          "continentalRanking": 39800,
+          "nationalRanking": 30498,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 1700,
+          "worldRanking": 77650,
+          "continentalRanking": 20183,
+          "nationalRanking": 15147,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Jack O'Halloran",
+      "wcaUserId": 471654,
+      "wcaId": "2025OHAL01",
+      "registrantId": 38,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1166901,
+        "eventIds": [
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/893rxigbw0wod5rd6qfx3j2llmi5",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/77qw4id9nagi32fq9i7qh0pelrc3"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "333",
+          "best": 2043,
+          "worldRanking": 76949,
+          "continentalRanking": 19881,
+          "nationalRanking": 14871,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 2196,
+          "worldRanking": 51263,
+          "continentalRanking": 16772,
+          "nationalRanking": 13369,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1661,
+          "worldRanking": 74530,
+          "continentalRanking": 19322,
+          "nationalRanking": 14485,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 1792,
+          "worldRanking": 56683,
+          "continentalRanking": 18553,
+          "nationalRanking": 14814,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "John Neely",
+      "wcaUserId": 489953,
+      "wcaId": null,
+      "registrantId": 40,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1167937,
+        "eventIds": [
+          "222",
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Tom McLaughlin",
+      "wcaUserId": 450961,
+      "wcaId": "2025MCLA01",
+      "registrantId": 41,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1167982,
+        "eventIds": [
+          "222",
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 1197,
+          "worldRanking": 117100,
+          "continentalRanking": 33838,
+          "nationalRanking": 25851,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 4947,
+          "worldRanking": 197216,
+          "continentalRanking": 55439,
+          "nationalRanking": 42429,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1339,
+          "worldRanking": 54239,
+          "continentalRanking": 15462,
+          "nationalRanking": 12039,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 973,
+          "worldRanking": 129379,
+          "continentalRanking": 37426,
+          "nationalRanking": 28659,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 3582,
+          "worldRanking": 182531,
+          "continentalRanking": 50932,
+          "nationalRanking": 38842,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1054,
+          "worldRanking": 66405,
+          "continentalRanking": 19190,
+          "nationalRanking": 14922,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Aadvik Madhusudan",
+      "wcaUserId": 490668,
+      "wcaId": null,
+      "registrantId": 42,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1171602,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Alexis Nelson",
+      "wcaUserId": 430920,
+      "wcaId": "2024NELS16",
+      "registrantId": 43,
+      "countryIso2": "US",
+      "gender": "f",
+      "registration": {
+        "wcaRegistrationId": 1172463,
+        "eventIds": [
+          "222",
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 1112,
+          "worldRanking": 111241,
+          "continentalRanking": 32071,
+          "nationalRanking": 24467,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 2704,
+          "worldRanking": 116944,
+          "continentalRanking": 31537,
+          "nationalRanking": 23775,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 2108,
+          "worldRanking": 94059,
+          "continentalRanking": 27531,
+          "nationalRanking": 21420,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 691,
+          "worldRanking": 100062,
+          "continentalRanking": 28761,
+          "nationalRanking": 21955,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 2084,
+          "worldRanking": 106766,
+          "continentalRanking": 28545,
+          "nationalRanking": 21516,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 2566,
+          "worldRanking": 20445,
+          "continentalRanking": 6715,
+          "nationalRanking": 5548,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1526,
+          "worldRanking": 96574,
+          "continentalRanking": 28142,
+          "nationalRanking": 21854,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Henry Siuty",
+      "wcaUserId": 492152,
+      "wcaId": null,
+      "registrantId": 45,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1176858,
+        "eventIds": [
+          "222",
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Aarav Guglani",
+      "wcaUserId": 324081,
+      "wcaId": "2023GUGL01",
+      "registrantId": 46,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1179122,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 435,
+          "worldRanking": 16700,
+          "continentalRanking": 4698,
+          "nationalRanking": 3630,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 889,
+          "worldRanking": 3300,
+          "continentalRanking": 916,
+          "nationalRanking": 725,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1617,
+          "worldRanking": 2511,
+          "continentalRanking": 642,
+          "nationalRanking": 492,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 3428,
+          "worldRanking": 1642,
+          "continentalRanking": 433,
+          "nationalRanking": 340,
+          "type": "average"
+        },
+        {
+          "eventId": "555",
+          "best": 6442,
+          "worldRanking": 1371,
+          "continentalRanking": 355,
+          "nationalRanking": 284,
+          "type": "average"
+        },
+        {
+          "eventId": "666",
+          "best": 11708,
+          "worldRanking": 851,
+          "continentalRanking": 228,
+          "nationalRanking": 181,
+          "type": "average"
+        },
+        {
+          "eventId": "777",
+          "best": 20998,
+          "worldRanking": 1718,
+          "continentalRanking": 453,
+          "nationalRanking": 343,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 1385,
+          "worldRanking": 8335,
+          "continentalRanking": 2527,
+          "nationalRanking": 2069,
+          "type": "average"
+        },
+        {
+          "eventId": "minx",
+          "best": 7712,
+          "worldRanking": 4259,
+          "continentalRanking": 1161,
+          "nationalRanking": 854,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1395,
+          "worldRanking": 58277,
+          "continentalRanking": 16712,
+          "nationalRanking": 13025,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 1402,
+          "worldRanking": 33298,
+          "continentalRanking": 10322,
+          "nationalRanking": 8176,
+          "type": "average"
+        },
+        {
+          "eventId": "sq1",
+          "best": 2247,
+          "worldRanking": 4295,
+          "continentalRanking": 1424,
+          "nationalRanking": 1167,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 310,
+          "worldRanking": 25177,
+          "continentalRanking": 7048,
+          "nationalRanking": 5349,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 732,
+          "worldRanking": 3948,
+          "continentalRanking": 1107,
+          "nationalRanking": 878,
+          "type": "single"
+        },
+        {
+          "eventId": "333bf",
+          "best": 19846,
+          "worldRanking": 6200,
+          "continentalRanking": 1431,
+          "nationalRanking": 1089,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1264,
+          "worldRanking": 2358,
+          "continentalRanking": 630,
+          "nationalRanking": 490,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 3159,
+          "worldRanking": 2547,
+          "continentalRanking": 648,
+          "nationalRanking": 498,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 5876,
+          "worldRanking": 1529,
+          "continentalRanking": 403,
+          "nationalRanking": 317,
+          "type": "single"
+        },
+        {
+          "eventId": "666",
+          "best": 11375,
+          "worldRanking": 1098,
+          "continentalRanking": 291,
+          "nationalRanking": 231,
+          "type": "single"
+        },
+        {
+          "eventId": "777",
+          "best": 19045,
+          "worldRanking": 1453,
+          "continentalRanking": 386,
+          "nationalRanking": 294,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 834,
+          "worldRanking": 4360,
+          "continentalRanking": 1302,
+          "nationalRanking": 1065,
+          "type": "single"
+        },
+        {
+          "eventId": "minx",
+          "best": 6602,
+          "worldRanking": 3839,
+          "continentalRanking": 1046,
+          "nationalRanking": 770,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 948,
+          "worldRanking": 56626,
+          "continentalRanking": 16200,
+          "nationalRanking": 12604,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 686,
+          "worldRanking": 21086,
+          "continentalRanking": 6139,
+          "nationalRanking": 4818,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 1578,
+          "worldRanking": 3970,
+          "continentalRanking": 1341,
+          "nationalRanking": 1106,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Nathan Kon",
+      "wcaUserId": 403224,
+      "wcaId": "2024KONN01",
+      "registrantId": 47,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1179596,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/v9ax3s8psypckpylejsqt30phjsb",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/1pbnqvc7zwwl47fa5rawvlw03zi6"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 220,
+          "worldRanking": 1101,
+          "continentalRanking": 310,
+          "nationalRanking": 264,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1125,
+          "worldRanking": 12788,
+          "continentalRanking": 3293,
+          "nationalRanking": 2529,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 2001,
+          "worldRanking": 6621,
+          "continentalRanking": 1599,
+          "nationalRanking": 1177,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 4866,
+          "worldRanking": 10566,
+          "continentalRanking": 2590,
+          "nationalRanking": 1884,
+          "type": "average"
+        },
+        {
+          "eventId": "555",
+          "best": 10350,
+          "worldRanking": 10457,
+          "continentalRanking": 2772,
+          "nationalRanking": 2042,
+          "type": "average"
+        },
+        {
+          "eventId": "666",
+          "best": 19425,
+          "worldRanking": 5949,
+          "continentalRanking": 1689,
+          "nationalRanking": 1260,
+          "type": "average"
+        },
+        {
+          "eventId": "777",
+          "best": 30250,
+          "worldRanking": 5274,
+          "continentalRanking": 1481,
+          "nationalRanking": 1091,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 947,
+          "worldRanking": 3702,
+          "continentalRanking": 1122,
+          "nationalRanking": 923,
+          "type": "average"
+        },
+        {
+          "eventId": "minx",
+          "best": 10549,
+          "worldRanking": 9128,
+          "continentalRanking": 2498,
+          "nationalRanking": 1820,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 652,
+          "worldRanking": 8739,
+          "continentalRanking": 2196,
+          "nationalRanking": 1701,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 586,
+          "worldRanking": 4783,
+          "continentalRanking": 1263,
+          "nationalRanking": 983,
+          "type": "average"
+        },
+        {
+          "eventId": "sq1",
+          "best": 2201,
+          "worldRanking": 4124,
+          "continentalRanking": 1367,
+          "nationalRanking": 1122,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 113,
+          "worldRanking": 1263,
+          "continentalRanking": 359,
+          "nationalRanking": 293,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 871,
+          "worldRanking": 9955,
+          "continentalRanking": 2601,
+          "nationalRanking": 2000,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1757,
+          "worldRanking": 8953,
+          "continentalRanking": 2170,
+          "nationalRanking": 1594,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 4283,
+          "worldRanking": 11026,
+          "continentalRanking": 2732,
+          "nationalRanking": 1982,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 8676,
+          "worldRanking": 8486,
+          "continentalRanking": 2215,
+          "nationalRanking": 1626,
+          "type": "single"
+        },
+        {
+          "eventId": "666",
+          "best": 18593,
+          "worldRanking": 6372,
+          "continentalRanking": 1819,
+          "nationalRanking": 1355,
+          "type": "single"
+        },
+        {
+          "eventId": "777",
+          "best": 29604,
+          "worldRanking": 5861,
+          "continentalRanking": 1644,
+          "nationalRanking": 1209,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 695,
+          "worldRanking": 2776,
+          "continentalRanking": 833,
+          "nationalRanking": 695,
+          "type": "single"
+        },
+        {
+          "eventId": "minx",
+          "best": 9836,
+          "worldRanking": 10081,
+          "continentalRanking": 2807,
+          "nationalRanking": 2047,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 261,
+          "worldRanking": 2706,
+          "continentalRanking": 698,
+          "nationalRanking": 558,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 277,
+          "worldRanking": 2367,
+          "continentalRanking": 635,
+          "nationalRanking": 508,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 1420,
+          "worldRanking": 3140,
+          "continentalRanking": 1066,
+          "nationalRanking": 877,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Jarrett Kastenberg",
+      "wcaUserId": 327182,
+      "wcaId": "2023KAST05",
+      "registrantId": 48,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1179606,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/6pzpzgyvvvm531me0m2keu3y2f5m",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/8cx81dm7hfcrj5ca96pt99ddrf4y"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 510,
+          "worldRanking": 28460,
+          "continentalRanking": 8017,
+          "nationalRanking": 6142,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 2042,
+          "worldRanking": 76876,
+          "continentalRanking": 19868,
+          "nationalRanking": 14860,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 755,
+          "worldRanking": 13174,
+          "continentalRanking": 3304,
+          "nationalRanking": 2564,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 327,
+          "worldRanking": 28538,
+          "continentalRanking": 7989,
+          "nationalRanking": 6067,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 1674,
+          "worldRanking": 75621,
+          "continentalRanking": 19634,
+          "nationalRanking": 14715,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 8074,
+          "worldRanking": 61742,
+          "continentalRanking": 17090,
+          "nationalRanking": 12757,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 632,
+          "worldRanking": 25659,
+          "continentalRanking": 6892,
+          "nationalRanking": 5319,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Xander Du",
+      "wcaUserId": 403430,
+      "wcaId": "2024DUXA01",
+      "registrantId": 49,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1179646,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/9flci6cqytveslvr6797s0z6vn7w",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/czn7m4g49kh96b1ta0ewkxroc2eg"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 422,
+          "worldRanking": 14864,
+          "continentalRanking": 4183,
+          "nationalRanking": 3241,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 2343,
+          "worldRanking": 96201,
+          "continentalRanking": 25431,
+          "nationalRanking": 19079,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 5141,
+          "worldRanking": 42858,
+          "continentalRanking": 11390,
+          "nationalRanking": 8393,
+          "type": "average"
+        },
+        {
+          "eventId": "555",
+          "best": 19913,
+          "worldRanking": 22278,
+          "continentalRanking": 6322,
+          "nationalRanking": 4755,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 1276,
+          "worldRanking": 7191,
+          "continentalRanking": 2174,
+          "nationalRanking": 1778,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 755,
+          "worldRanking": 13174,
+          "continentalRanking": 3304,
+          "nationalRanking": 2564,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 833,
+          "worldRanking": 12765,
+          "continentalRanking": 3516,
+          "nationalRanking": 2707,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 194,
+          "worldRanking": 6794,
+          "continentalRanking": 1869,
+          "nationalRanking": 1473,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 1726,
+          "worldRanking": 79802,
+          "continentalRanking": 20765,
+          "nationalRanking": 15590,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 4728,
+          "worldRanking": 49263,
+          "continentalRanking": 12971,
+          "nationalRanking": 9558,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 17497,
+          "worldRanking": 27833,
+          "continentalRanking": 8043,
+          "nationalRanking": 6040,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 1114,
+          "worldRanking": 8045,
+          "continentalRanking": 2428,
+          "nationalRanking": 1979,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 384,
+          "worldRanking": 7683,
+          "continentalRanking": 1931,
+          "nationalRanking": 1507,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 404,
+          "worldRanking": 7041,
+          "continentalRanking": 1923,
+          "nationalRanking": 1517,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Neil John",
+      "wcaUserId": 225981,
+      "wcaId": "2023JOHN48",
+      "registrantId": 51,
+      "countryIso2": "IN",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1180721,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 584,
+          "worldRanking": 41792,
+          "continentalRanking": 12584,
+          "nationalRanking": 1948,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1900,
+          "worldRanking": 67244,
+          "continentalRanking": 24827,
+          "nationalRanking": 3186,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1369,
+          "worldRanking": 56435,
+          "continentalRanking": 15353,
+          "nationalRanking": 2928,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 400,
+          "worldRanking": 43799,
+          "continentalRanking": 12339,
+          "nationalRanking": 2044,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 1543,
+          "worldRanking": 64603,
+          "continentalRanking": 23565,
+          "nationalRanking": 3068,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 2302,
+          "worldRanking": 19062,
+          "continentalRanking": 4335,
+          "nationalRanking": 536,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 673,
+          "worldRanking": 29442,
+          "continentalRanking": 7852,
+          "nationalRanking": 1431,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "James Gable",
+      "wcaUserId": 493295,
+      "wcaId": null,
+      "registrantId": 52,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1180956,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Ari Randers-Pehrson",
+      "wcaUserId": 62406,
+      "wcaId": "2017RAND06",
+      "registrantId": 53,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1181058,
+        "eventIds": [
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2017RAND06/1660339447.jpeg",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2017RAND06/1660339447_thumb.jpeg"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 278,
+          "worldRanking": 2819,
+          "continentalRanking": 803,
+          "nationalRanking": 640,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 725,
+          "worldRanking": 596,
+          "continentalRanking": 174,
+          "nationalRanking": 150,
+          "type": "average"
+        },
+        {
+          "eventId": "333fm",
+          "best": 3967,
+          "worldRanking": 2448,
+          "continentalRanking": 578,
+          "nationalRanking": 474,
+          "type": "average"
+        },
+        {
+          "eventId": "333ft",
+          "best": 14618,
+          "worldRanking": 1507,
+          "continentalRanking": 354,
+          "nationalRanking": 277,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1654,
+          "worldRanking": 2802,
+          "continentalRanking": 712,
+          "nationalRanking": 549,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 2249,
+          "worldRanking": 15,
+          "continentalRanking": 4,
+          "nationalRanking": 4,
+          "type": "average"
+        },
+        {
+          "eventId": "555",
+          "best": 4733,
+          "worldRanking": 86,
+          "continentalRanking": 26,
+          "nationalRanking": 22,
+          "type": "average"
+        },
+        {
+          "eventId": "666",
+          "best": 9136,
+          "worldRanking": 123,
+          "continentalRanking": 41,
+          "nationalRanking": 35,
+          "type": "average"
+        },
+        {
+          "eventId": "777",
+          "best": 15192,
+          "worldRanking": 246,
+          "continentalRanking": 56,
+          "nationalRanking": 48,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 915,
+          "worldRanking": 3364,
+          "continentalRanking": 1020,
+          "nationalRanking": 840,
+          "type": "average"
+        },
+        {
+          "eventId": "minx",
+          "best": 7815,
+          "worldRanking": 4424,
+          "continentalRanking": 1201,
+          "nationalRanking": 884,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 652,
+          "worldRanking": 8739,
+          "continentalRanking": 2196,
+          "nationalRanking": 1701,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 556,
+          "worldRanking": 4006,
+          "continentalRanking": 1062,
+          "nationalRanking": 834,
+          "type": "average"
+        },
+        {
+          "eventId": "sq1",
+          "best": 1174,
+          "worldRanking": 760,
+          "continentalRanking": 261,
+          "nationalRanking": 229,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 145,
+          "worldRanking": 2945,
+          "continentalRanking": 785,
+          "nationalRanking": 638,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 508,
+          "worldRanking": 279,
+          "continentalRanking": 83,
+          "nationalRanking": 73,
+          "type": "single"
+        },
+        {
+          "eventId": "333bf",
+          "best": 27155,
+          "worldRanking": 8144,
+          "continentalRanking": 1843,
+          "nationalRanking": 1392,
+          "type": "single"
+        },
+        {
+          "eventId": "333fm",
+          "best": 33,
+          "worldRanking": 2503,
+          "continentalRanking": 524,
+          "nationalRanking": 434,
+          "type": "single"
+        },
+        {
+          "eventId": "333ft",
+          "best": 12116,
+          "worldRanking": 1610,
+          "continentalRanking": 375,
+          "nationalRanking": 293,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1354,
+          "worldRanking": 3323,
+          "continentalRanking": 859,
+          "nationalRanking": 655,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 1964,
+          "worldRanking": 20,
+          "continentalRanking": 4,
+          "nationalRanking": 4,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 4202,
+          "worldRanking": 87,
+          "continentalRanking": 26,
+          "nationalRanking": 21,
+          "type": "single"
+        },
+        {
+          "eventId": "666",
+          "best": 8396,
+          "worldRanking": 115,
+          "continentalRanking": 34,
+          "nationalRanking": 30,
+          "type": "single"
+        },
+        {
+          "eventId": "777",
+          "best": 14718,
+          "worldRanking": 319,
+          "continentalRanking": 84,
+          "nationalRanking": 67,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 816,
+          "worldRanking": 4154,
+          "continentalRanking": 1228,
+          "nationalRanking": 1008,
+          "type": "single"
+        },
+        {
+          "eventId": "minx",
+          "best": 7212,
+          "worldRanking": 4977,
+          "continentalRanking": 1350,
+          "nationalRanking": 989,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 382,
+          "worldRanking": 7598,
+          "continentalRanking": 1914,
+          "nationalRanking": 1492,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 268,
+          "worldRanking": 2114,
+          "continentalRanking": 567,
+          "nationalRanking": 454,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 940,
+          "worldRanking": 1088,
+          "continentalRanking": 385,
+          "nationalRanking": 331,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Miles Roth",
+      "wcaUserId": 435743,
+      "wcaId": "2024ROTH08",
+      "registrantId": 54,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1181108,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 950,
+          "worldRanking": 97040,
+          "continentalRanking": 27842,
+          "nationalRanking": 21251,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 2761,
+          "worldRanking": 119939,
+          "continentalRanking": 32424,
+          "nationalRanking": 24463,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 1635,
+          "worldRanking": 39987,
+          "continentalRanking": 12680,
+          "nationalRanking": 10079,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 373,
+          "worldRanking": 38073,
+          "continentalRanking": 10622,
+          "nationalRanking": 8073,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 2100,
+          "worldRanking": 107867,
+          "continentalRanking": 28840,
+          "nationalRanking": 21740,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 10554,
+          "worldRanking": 55964,
+          "continentalRanking": 15893,
+          "nationalRanking": 11963,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 643,
+          "worldRanking": 18839,
+          "continentalRanking": 5402,
+          "nationalRanking": 4226,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Andrew You",
+      "wcaUserId": 370084,
+      "wcaId": "2023YOUA01",
+      "registrantId": 55,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1181156,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 1790,
+          "worldRanking": 141642,
+          "continentalRanking": 41022,
+          "nationalRanking": 31474,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 4763,
+          "worldRanking": 192793,
+          "continentalRanking": 54160,
+          "nationalRanking": 41410,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 2333,
+          "worldRanking": 99391,
+          "continentalRanking": 29061,
+          "nationalRanking": 22594,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 3242,
+          "worldRanking": 60008,
+          "continentalRanking": 19771,
+          "nationalRanking": 15796,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 1267,
+          "worldRanking": 145234,
+          "continentalRanking": 41960,
+          "nationalRanking": 32185,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 3401,
+          "worldRanking": 175845,
+          "continentalRanking": 48960,
+          "nationalRanking": 37273,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 14124,
+          "worldRanking": 65912,
+          "continentalRanking": 18500,
+          "nationalRanking": 13856,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 18869,
+          "worldRanking": 73560,
+          "continentalRanking": 21722,
+          "nationalRanking": 16560,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1412,
+          "worldRanking": 91348,
+          "continentalRanking": 26673,
+          "nationalRanking": 20716,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 2834,
+          "worldRanking": 63763,
+          "continentalRanking": 20681,
+          "nationalRanking": 16522,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Kenneth Elijuah Sims",
+      "wcaUserId": 474802,
+      "wcaId": "2025SIMS01",
+      "registrantId": 56,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1181342,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "333",
+          "best": 3207,
+          "worldRanking": 141140,
+          "continentalRanking": 38756,
+          "nationalRanking": 29335,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 2326,
+          "worldRanking": 122883,
+          "continentalRanking": 33245,
+          "nationalRanking": 25133,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Hassan Khanani",
+      "wcaUserId": 117114,
+      "wcaId": "2018KHAN26",
+      "registrantId": 57,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1181347,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2018KHAN26/1724426331.jpg",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2018KHAN26/1724426331_thumb.jpg"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 15,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 134,
+          "worldRanking": 70,
+          "continentalRanking": 25,
+          "nationalRanking": 22,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 736,
+          "worldRanking": 689,
+          "continentalRanking": 208,
+          "nationalRanking": 180,
+          "type": "average"
+        },
+        {
+          "eventId": "333bf",
+          "best": 4077,
+          "worldRanking": 371,
+          "continentalRanking": 74,
+          "nationalRanking": 61,
+          "type": "average"
+        },
+        {
+          "eventId": "333fm",
+          "best": 2933,
+          "worldRanking": 470,
+          "continentalRanking": 104,
+          "nationalRanking": 90,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1382,
+          "worldRanking": 975,
+          "continentalRanking": 262,
+          "nationalRanking": 209,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 3310,
+          "worldRanking": 1265,
+          "continentalRanking": 328,
+          "nationalRanking": 260,
+          "type": "average"
+        },
+        {
+          "eventId": "444bf",
+          "best": 39233,
+          "worldRanking": 201,
+          "continentalRanking": 42,
+          "nationalRanking": 36,
+          "type": "average"
+        },
+        {
+          "eventId": "555",
+          "best": 5717,
+          "worldRanking": 596,
+          "continentalRanking": 164,
+          "nationalRanking": 133,
+          "type": "average"
+        },
+        {
+          "eventId": "666",
+          "best": 11023,
+          "worldRanking": 582,
+          "continentalRanking": 156,
+          "nationalRanking": 122,
+          "type": "average"
+        },
+        {
+          "eventId": "777",
+          "best": 18051,
+          "worldRanking": 808,
+          "continentalRanking": 217,
+          "nationalRanking": 167,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 556,
+          "worldRanking": 746,
+          "continentalRanking": 242,
+          "nationalRanking": 205,
+          "type": "average"
+        },
+        {
+          "eventId": "minx",
+          "best": 5060,
+          "worldRanking": 804,
+          "continentalRanking": 212,
+          "nationalRanking": 170,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 289,
+          "worldRanking": 659,
+          "continentalRanking": 176,
+          "nationalRanking": 152,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 361,
+          "worldRanking": 666,
+          "continentalRanking": 185,
+          "nationalRanking": 158,
+          "type": "average"
+        },
+        {
+          "eventId": "sq1",
+          "best": 480,
+          "worldRanking": 2,
+          "continentalRanking": 2,
+          "nationalRanking": 2,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 69,
+          "worldRanking": 147,
+          "continentalRanking": 38,
+          "nationalRanking": 29,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 577,
+          "worldRanking": 776,
+          "continentalRanking": 230,
+          "nationalRanking": 200,
+          "type": "single"
+        },
+        {
+          "eventId": "333bf",
+          "best": 2744,
+          "worldRanking": 348,
+          "continentalRanking": 82,
+          "nationalRanking": 62,
+          "type": "single"
+        },
+        {
+          "eventId": "333fm",
+          "best": 24,
+          "worldRanking": 395,
+          "continentalRanking": 98,
+          "nationalRanking": 88,
+          "type": "single"
+        },
+        {
+          "eventId": "333mbf",
+          "best": 870314301,
+          "worldRanking": 454,
+          "continentalRanking": 94,
+          "nationalRanking": 78,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 981,
+          "worldRanking": 518,
+          "continentalRanking": 146,
+          "nationalRanking": 121,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 2706,
+          "worldRanking": 857,
+          "continentalRanking": 236,
+          "nationalRanking": 196,
+          "type": "single"
+        },
+        {
+          "eventId": "444bf",
+          "best": 20788,
+          "worldRanking": 192,
+          "continentalRanking": 43,
+          "nationalRanking": 39,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 5416,
+          "worldRanking": 935,
+          "continentalRanking": 254,
+          "nationalRanking": 203,
+          "type": "single"
+        },
+        {
+          "eventId": "555bf",
+          "best": 102700,
+          "worldRanking": 472,
+          "continentalRanking": 111,
+          "nationalRanking": 92,
+          "type": "single"
+        },
+        {
+          "eventId": "666",
+          "best": 9987,
+          "worldRanking": 493,
+          "continentalRanking": 133,
+          "nationalRanking": 105,
+          "type": "single"
+        },
+        {
+          "eventId": "777",
+          "best": 16887,
+          "worldRanking": 782,
+          "continentalRanking": 207,
+          "nationalRanking": 158,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 452,
+          "worldRanking": 834,
+          "continentalRanking": 268,
+          "nationalRanking": 232,
+          "type": "single"
+        },
+        {
+          "eventId": "minx",
+          "best": 4509,
+          "worldRanking": 851,
+          "continentalRanking": 223,
+          "nationalRanking": 177,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 142,
+          "worldRanking": 312,
+          "continentalRanking": 89,
+          "nationalRanking": 81,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 146,
+          "worldRanking": 208,
+          "continentalRanking": 59,
+          "nationalRanking": 52,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 371,
+          "worldRanking": 7,
+          "continentalRanking": 6,
+          "nationalRanking": 6,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Zayn Khanani",
+      "wcaUserId": 117115,
+      "wcaId": "2018KHAN28",
+      "registrantId": 58,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1181348,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2018KHAN28/1710128612.jpeg",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2018KHAN28/1710128612_thumb.jpeg"
+      },
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "staff-scrambler"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 92,
+          "worldRanking": 3,
+          "continentalRanking": 1,
+          "nationalRanking": 1,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 669,
+          "worldRanking": 265,
+          "continentalRanking": 78,
+          "nationalRanking": 65,
+          "type": "average"
+        },
+        {
+          "eventId": "333bf",
+          "best": 25265,
+          "worldRanking": 2963,
+          "continentalRanking": 681,
+          "nationalRanking": 517,
+          "type": "average"
+        },
+        {
+          "eventId": "333fm",
+          "best": 2933,
+          "worldRanking": 470,
+          "continentalRanking": 104,
+          "nationalRanking": 90,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1136,
+          "worldRanking": 212,
+          "continentalRanking": 57,
+          "nationalRanking": 49,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 3258,
+          "worldRanking": 1121,
+          "continentalRanking": 295,
+          "nationalRanking": 233,
+          "type": "average"
+        },
+        {
+          "eventId": "555",
+          "best": 6562,
+          "worldRanking": 1543,
+          "continentalRanking": 405,
+          "nationalRanking": 318,
+          "type": "average"
+        },
+        {
+          "eventId": "666",
+          "best": 12337,
+          "worldRanking": 1148,
+          "continentalRanking": 300,
+          "nationalRanking": 238,
+          "type": "average"
+        },
+        {
+          "eventId": "777",
+          "best": 20583,
+          "worldRanking": 1571,
+          "continentalRanking": 422,
+          "nationalRanking": 319,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 924,
+          "worldRanking": 3454,
+          "continentalRanking": 1047,
+          "nationalRanking": 862,
+          "type": "average"
+        },
+        {
+          "eventId": "minx",
+          "best": 4588,
+          "worldRanking": 445,
+          "continentalRanking": 111,
+          "nationalRanking": 86,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 306,
+          "worldRanking": 813,
+          "continentalRanking": 220,
+          "nationalRanking": 186,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 156,
+          "worldRanking": 4,
+          "continentalRanking": 3,
+          "nationalRanking": 3,
+          "type": "average"
+        },
+        {
+          "eventId": "sq1",
+          "best": 745,
+          "worldRanking": 83,
+          "continentalRanking": 37,
+          "nationalRanking": 36,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 50,
+          "worldRanking": 7,
+          "continentalRanking": 1,
+          "nationalRanking": 1,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 471,
+          "worldRanking": 136,
+          "continentalRanking": 41,
+          "nationalRanking": 34,
+          "type": "single"
+        },
+        {
+          "eventId": "333bf",
+          "best": 14016,
+          "worldRanking": 4261,
+          "continentalRanking": 961,
+          "nationalRanking": 739,
+          "type": "single"
+        },
+        {
+          "eventId": "333fm",
+          "best": 26,
+          "worldRanking": 634,
+          "continentalRanking": 137,
+          "nationalRanking": 122,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 861,
+          "worldRanking": 201,
+          "continentalRanking": 53,
+          "nationalRanking": 43,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 2835,
+          "worldRanking": 1230,
+          "continentalRanking": 327,
+          "nationalRanking": 256,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 5816,
+          "worldRanking": 1437,
+          "continentalRanking": 380,
+          "nationalRanking": 301,
+          "type": "single"
+        },
+        {
+          "eventId": "666",
+          "best": 11613,
+          "worldRanking": 1227,
+          "continentalRanking": 324,
+          "nationalRanking": 257,
+          "type": "single"
+        },
+        {
+          "eventId": "777",
+          "best": 18645,
+          "worldRanking": 1312,
+          "continentalRanking": 345,
+          "nationalRanking": 262,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 732,
+          "worldRanking": 3162,
+          "continentalRanking": 948,
+          "nationalRanking": 785,
+          "type": "single"
+        },
+        {
+          "eventId": "minx",
+          "best": 3988,
+          "worldRanking": 423,
+          "continentalRanking": 103,
+          "nationalRanking": 82,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 193,
+          "worldRanking": 1070,
+          "continentalRanking": 266,
+          "nationalRanking": 224,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 81,
+          "worldRanking": 2,
+          "continentalRanking": 2,
+          "nationalRanking": 2,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 600,
+          "worldRanking": 158,
+          "continentalRanking": 70,
+          "nationalRanking": 63,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Dominic Root",
+      "wcaUserId": 493877,
+      "wcaId": null,
+      "registrantId": 60,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1183070,
+        "eventIds": [
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Alexander Ferro",
+      "wcaUserId": 494779,
+      "wcaId": null,
+      "registrantId": 61,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1186971,
+        "eventIds": [
+          "222",
+          "333",
+          "444"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 10,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 13,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        },
+        {
+          "activityId": 14,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 17,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 18,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Ikshu Varada",
+      "wcaUserId": 310602,
+      "wcaId": "2022VARA06",
+      "registrantId": 63,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1192346,
+        "eventIds": [
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [
+        {
+          "activityId": 9,
+          "stationNumber": null,
+          "assignmentCode": "staff-judge"
+        },
+        {
+          "activityId": 11,
+          "stationNumber": null,
+          "assignmentCode": "competitor"
+        }
+      ],
+      "personalBests": [
+        {
+          "eventId": "333",
+          "best": 3882,
+          "worldRanking": 167144,
+          "continentalRanking": 46585,
+          "nationalRanking": 35456,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 3120,
+          "worldRanking": 164205,
+          "continentalRanking": 45499,
+          "nationalRanking": 34559,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Obi Cerruti",
+      "wcaUserId": 348189,
+      "wcaId": "2023CERR01",
+      "registrantId": null,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": null,
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/w5yl04f98kk57tbm7pvzcvvjyq32",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/qvz8dd8zjswlk7xlxovmui88p2qt"
+      },
+      "roles": [
+        "organizer"
+      ],
+      "assignments": [],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 418,
+          "worldRanking": 14398,
+          "continentalRanking": 4038,
+          "nationalRanking": 3131,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1206,
+          "worldRanking": 17405,
+          "continentalRanking": 4450,
+          "nationalRanking": 3393,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 3444,
+          "worldRanking": 27171,
+          "continentalRanking": 6722,
+          "nationalRanking": 4920,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 1493,
+          "worldRanking": 9372,
+          "continentalRanking": 2859,
+          "nationalRanking": 2354,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 1031,
+          "worldRanking": 30545,
+          "continentalRanking": 8273,
+          "nationalRanking": 6401,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 1232,
+          "worldRanking": 27521,
+          "continentalRanking": 8255,
+          "nationalRanking": 6506,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 206,
+          "worldRanking": 8060,
+          "continentalRanking": 2231,
+          "nationalRanking": 1750,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 986,
+          "worldRanking": 16988,
+          "continentalRanking": 4416,
+          "nationalRanking": 3369,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 2897,
+          "worldRanking": 29192,
+          "continentalRanking": 7292,
+          "nationalRanking": 5330,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 8434,
+          "worldRanking": 44677,
+          "continentalRanking": 12241,
+          "nationalRanking": 9098,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 1345,
+          "worldRanking": 10880,
+          "continentalRanking": 3301,
+          "nationalRanking": 2705,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 630,
+          "worldRanking": 25452,
+          "continentalRanking": 6827,
+          "nationalRanking": 5273,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 851,
+          "worldRanking": 29420,
+          "continentalRanking": 8925,
+          "nationalRanking": 7057,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    },
+    {
+      "name": "Mid-Atlantic Speedcubing",
+      "wcaUserId": 432427,
+      "wcaId": null,
+      "registrantId": null,
+      "countryIso2": "US",
+      "gender": "o",
+      "registration": null,
+      "avatar": null,
+      "roles": [
+        "organizer"
+      ],
+      "assignments": [],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Zach Ridall",
+      "wcaUserId": 53344,
+      "wcaId": "2018RIDA01",
+      "registrantId": null,
+      "countryIso2": "US",
+      "gender": "m",
+      "registration": null,
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/dxhikvkthsvxy4s4ua0yzbqkrf2x",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/p85j0apshrs1vny6spuv4cf1ybfm"
+      },
+      "roles": [
+        "delegate"
+      ],
+      "assignments": [],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 271,
+          "worldRanking": 2510,
+          "continentalRanking": 721,
+          "nationalRanking": 575,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 880,
+          "worldRanking": 3071,
+          "continentalRanking": 866,
+          "nationalRanking": 687,
+          "type": "average"
+        },
+        {
+          "eventId": "333bf",
+          "best": 23549,
+          "worldRanking": 2866,
+          "continentalRanking": 661,
+          "nationalRanking": 503,
+          "type": "average"
+        },
+        {
+          "eventId": "333fm",
+          "best": 3733,
+          "worldRanking": 1869,
+          "continentalRanking": 434,
+          "nationalRanking": 359,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1876,
+          "worldRanking": 5128,
+          "continentalRanking": 1246,
+          "nationalRanking": 918,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 3406,
+          "worldRanking": 1560,
+          "continentalRanking": 411,
+          "nationalRanking": 325,
+          "type": "average"
+        },
+        {
+          "eventId": "555",
+          "best": 6792,
+          "worldRanking": 1901,
+          "continentalRanking": 484,
+          "nationalRanking": 385,
+          "type": "average"
+        },
+        {
+          "eventId": "666",
+          "best": 14206,
+          "worldRanking": 2260,
+          "continentalRanking": 620,
+          "nationalRanking": 483,
+          "type": "average"
+        },
+        {
+          "eventId": "777",
+          "best": 24097,
+          "worldRanking": 2948,
+          "continentalRanking": 803,
+          "nationalRanking": 585,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 467,
+          "worldRanking": 391,
+          "continentalRanking": 135,
+          "nationalRanking": 117,
+          "type": "average"
+        },
+        {
+          "eventId": "minx",
+          "best": 8573,
+          "worldRanking": 5702,
+          "continentalRanking": 1551,
+          "nationalRanking": 1131,
+          "type": "average"
+        },
+        {
+          "eventId": "pyram",
+          "best": 572,
+          "worldRanking": 5994,
+          "continentalRanking": 1485,
+          "nationalRanking": 1166,
+          "type": "average"
+        },
+        {
+          "eventId": "skewb",
+          "best": 358,
+          "worldRanking": 641,
+          "continentalRanking": 178,
+          "nationalRanking": 152,
+          "type": "average"
+        },
+        {
+          "eventId": "sq1",
+          "best": 780,
+          "worldRanking": 112,
+          "continentalRanking": 49,
+          "nationalRanking": 44,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 134,
+          "worldRanking": 2251,
+          "continentalRanking": 607,
+          "nationalRanking": 492,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 597,
+          "worldRanking": 1013,
+          "continentalRanking": 293,
+          "nationalRanking": 253,
+          "type": "single"
+        },
+        {
+          "eventId": "333bf",
+          "best": 14924,
+          "worldRanking": 4574,
+          "continentalRanking": 1039,
+          "nationalRanking": 799,
+          "type": "single"
+        },
+        {
+          "eventId": "333fm",
+          "best": 31,
+          "worldRanking": 1841,
+          "continentalRanking": 388,
+          "nationalRanking": 324,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1551,
+          "worldRanking": 5771,
+          "continentalRanking": 1418,
+          "nationalRanking": 1059,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 3036,
+          "worldRanking": 1990,
+          "continentalRanking": 506,
+          "nationalRanking": 396,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 5966,
+          "worldRanking": 1674,
+          "continentalRanking": 442,
+          "nationalRanking": 347,
+          "type": "single"
+        },
+        {
+          "eventId": "666",
+          "best": 12966,
+          "worldRanking": 2074,
+          "continentalRanking": 567,
+          "nationalRanking": 438,
+          "type": "single"
+        },
+        {
+          "eventId": "777",
+          "best": 21802,
+          "worldRanking": 2556,
+          "continentalRanking": 696,
+          "nationalRanking": 506,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 312,
+          "worldRanking": 191,
+          "continentalRanking": 76,
+          "nationalRanking": 69,
+          "type": "single"
+        },
+        {
+          "eventId": "minx",
+          "best": 7306,
+          "worldRanking": 5135,
+          "continentalRanking": 1398,
+          "nationalRanking": 1023,
+          "type": "single"
+        },
+        {
+          "eventId": "pyram",
+          "best": 223,
+          "worldRanking": 1676,
+          "continentalRanking": 421,
+          "nationalRanking": 343,
+          "type": "single"
+        },
+        {
+          "eventId": "skewb",
+          "best": 228,
+          "worldRanking": 1218,
+          "continentalRanking": 321,
+          "nationalRanking": 263,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 575,
+          "worldRanking": 123,
+          "continentalRanking": 56,
+          "nationalRanking": 50,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    }
+  ],
+  "events": [
+    {
+      "id": "333",
+      "rounds": [
+        {
+          "id": "333-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 60000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": {
+            "type": "ranking",
+            "level": 16
+          },
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        },
+        {
+          "id": "333-r2",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 60000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    },
+    {
+      "id": "222",
+      "rounds": [
+        {
+          "id": "222-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 60000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": {
+            "type": "ranking",
+            "level": 16
+          },
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        },
+        {
+          "id": "222-r2",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 60000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    },
+    {
+      "id": "444",
+      "rounds": [
+        {
+          "id": "444-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 18000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": {
+            "numberOfAttempts": 2,
+            "attemptResult": 7500
+          },
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    }
+  ],
+  "schedule": {
+    "startDate": "2025-08-09",
+    "numberOfDays": 1,
+    "venues": [
+      {
+        "id": 1,
+        "name": "Lenape Valley Church",
+        "latitudeMicrodegrees": 40294993,
+        "longitudeMicrodegrees": -75192779,
+        "countryIso2": "US",
+        "timezone": "America/New_York",
+        "rooms": [
+          {
+            "id": 1,
+            "name": "Social Hall",
+            "color": "#0a4d05",
+            "activities": [
+              {
+                "id": 1,
+                "name": "Check-in",
+                "activityCode": "other-checkin",
+                "startTime": "2025-08-09T12:00:00Z",
+                "endTime": "2025-08-09T12:30:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 2,
+                "name": "Tutorial for new competitors",
+                "activityCode": "other-tutorial",
+                "startTime": "2025-08-09T12:30:00Z",
+                "endTime": "2025-08-09T12:50:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 3,
+                "name": "3x3x3 Cube, Round 1",
+                "activityCode": "333-r1",
+                "startTime": "2025-08-09T12:50:00Z",
+                "endTime": "2025-08-09T13:45:00Z",
+                "childActivities": [
+                  {
+                    "id": 9,
+                    "name": "3x3x3 Cube, Round 1, Group 1",
+                    "activityCode": "333-r1-g1",
+                    "startTime": "2025-08-09T12:50:00Z",
+                    "endTime": "2025-08-09T13:08:00Z",
+                    "childActivities": [],
+                    "extensions": []
+                  },
+                  {
+                    "id": 10,
+                    "name": "3x3x3 Cube, Round 1, Group 2",
+                    "activityCode": "333-r1-g2",
+                    "startTime": "2025-08-09T13:08:00Z",
+                    "endTime": "2025-08-09T13:27:00Z",
+                    "childActivities": [],
+                    "extensions": []
+                  },
+                  {
+                    "id": 11,
+                    "name": "3x3x3 Cube, Round 1, Group 3",
+                    "activityCode": "333-r1-g3",
+                    "startTime": "2025-08-09T13:27:00Z",
+                    "endTime": "2025-08-09T13:45:00Z",
+                    "childActivities": [],
+                    "extensions": []
+                  }
+                ],
+                "extensions": [
+                  {
+                    "id": "groupifier.ActivityConfig",
+                    "specUrl": "https://groupifier.jonatanklosko.com/wcif-extensions/ActivityConfig.json",
+                    "data": {
+                      "capacity": 1,
+                      "groups": 2,
+                      "scramblers": 4,
+                      "runners": 3,
+                      "assignJudges": true
+                    }
+                  }
+                ]
+              },
+              {
+                "id": 4,
+                "name": "2x2x2 Cube, Round 1",
+                "activityCode": "222-r1",
+                "startTime": "2025-08-09T13:45:00Z",
+                "endTime": "2025-08-09T14:30:00Z",
+                "childActivities": [
+                  {
+                    "id": 13,
+                    "name": "2x2x2 Cube, Round 1, Group 1",
+                    "activityCode": "222-r1-g1",
+                    "startTime": "2025-08-09T13:45:00Z",
+                    "endTime": "2025-08-09T14:00:00Z",
+                    "childActivities": [],
+                    "extensions": []
+                  },
+                  {
+                    "id": 14,
+                    "name": "2x2x2 Cube, Round 1, Group 2",
+                    "activityCode": "222-r1-g2",
+                    "startTime": "2025-08-09T14:00:00Z",
+                    "endTime": "2025-08-09T14:15:00Z",
+                    "childActivities": [],
+                    "extensions": []
+                  },
+                  {
+                    "id": 15,
+                    "name": "2x2x2 Cube, Round 1, Group 3",
+                    "activityCode": "222-r1-g3",
+                    "startTime": "2025-08-09T14:15:00Z",
+                    "endTime": "2025-08-09T14:30:00Z",
+                    "childActivities": [],
+                    "extensions": []
+                  }
+                ],
+                "extensions": [
+                  {
+                    "id": "groupifier.ActivityConfig",
+                    "specUrl": "https://groupifier.jonatanklosko.com/wcif-extensions/ActivityConfig.json",
+                    "data": {
+                      "capacity": 1,
+                      "groups": 2,
+                      "scramblers": 4,
+                      "runners": 3,
+                      "assignJudges": true
+                    }
+                  }
+                ]
+              },
+              {
+                "id": 5,
+                "name": "4x4x4 Cube, Round 1",
+                "activityCode": "444-r1",
+                "startTime": "2025-08-09T14:30:00Z",
+                "endTime": "2025-08-09T15:20:00Z",
+                "childActivities": [
+                  {
+                    "id": 17,
+                    "name": "4x4x4 Cube, Round 1, Group 1",
+                    "activityCode": "444-r1-g1",
+                    "startTime": "2025-08-09T14:30:00Z",
+                    "endTime": "2025-08-09T14:55:00Z",
+                    "childActivities": [],
+                    "extensions": []
+                  },
+                  {
+                    "id": 18,
+                    "name": "4x4x4 Cube, Round 1, Group 2",
+                    "activityCode": "444-r1-g2",
+                    "startTime": "2025-08-09T14:55:00Z",
+                    "endTime": "2025-08-09T15:20:00Z",
+                    "childActivities": [],
+                    "extensions": []
+                  }
+                ],
+                "extensions": [
+                  {
+                    "id": "groupifier.ActivityConfig",
+                    "specUrl": "https://groupifier.jonatanklosko.com/wcif-extensions/ActivityConfig.json",
+                    "data": {
+                      "capacity": 1,
+                      "groups": 2,
+                      "scramblers": 4,
+                      "runners": 3,
+                      "assignJudges": true
+                    }
+                  }
+                ]
+              },
+              {
+                "id": 6,
+                "name": "2x2x2 Cube, Round 2",
+                "activityCode": "222-r2",
+                "startTime": "2025-08-09T15:20:00Z",
+                "endTime": "2025-08-09T15:40:00Z",
+                "childActivities": [
+                  {
+                    "id": 16,
+                    "name": "2x2x2 Cube, Round 2, Group 1",
+                    "activityCode": "222-r2-g1",
+                    "startTime": "2025-08-09T15:20:00Z",
+                    "endTime": "2025-08-09T15:40:00Z",
+                    "childActivities": [],
+                    "extensions": []
+                  }
+                ],
+                "extensions": [
+                  {
+                    "id": "groupifier.ActivityConfig",
+                    "specUrl": "https://groupifier.jonatanklosko.com/wcif-extensions/ActivityConfig.json",
+                    "data": {
+                      "capacity": 1,
+                      "groups": 1,
+                      "scramblers": 4,
+                      "runners": 2,
+                      "assignJudges": true
+                    }
+                  }
+                ]
+              },
+              {
+                "id": 7,
+                "name": "3x3x3 Cube, Round 2",
+                "activityCode": "333-r2",
+                "startTime": "2025-08-09T15:40:00Z",
+                "endTime": "2025-08-09T16:00:00Z",
+                "childActivities": [
+                  {
+                    "id": 12,
+                    "name": "3x3x3 Cube, Round 2, Group 1",
+                    "activityCode": "333-r2-g1",
+                    "startTime": "2025-08-09T15:40:00Z",
+                    "endTime": "2025-08-09T16:00:00Z",
+                    "childActivities": [],
+                    "extensions": []
+                  }
+                ],
+                "extensions": [
+                  {
+                    "id": "groupifier.ActivityConfig",
+                    "specUrl": "https://groupifier.jonatanklosko.com/wcif-extensions/ActivityConfig.json",
+                    "data": {
+                      "capacity": 1,
+                      "groups": 1,
+                      "scramblers": 4,
+                      "runners": 2,
+                      "assignJudges": true
+                    }
+                  }
+                ]
+              },
+              {
+                "id": 8,
+                "name": "Awards",
+                "activityCode": "other-awards",
+                "startTime": "2025-08-09T16:00:00Z",
+                "endTime": "2025-08-09T16:20:00Z",
+                "childActivities": [],
+                "extensions": []
+              }
+            ],
+            "extensions": [
+              {
+                "id": "groupifier.RoomConfig",
+                "specUrl": "https://groupifier.jonatanklosko.com/wcif-extensions/RoomConfig.json",
+                "data": {
+                  "stations": 18
+                }
+              }
+            ]
+          }
+        ],
+        "extensions": []
+      }
+    ]
+  },
+  "competitorLimit": 50,
+  "extensions": [
+    {
+      "id": "groupifier.CompetitionConfig",
+      "specUrl": "https://groupifier.jonatanklosko.com/wcif-extensions/CompetitionConfig.json",
+      "data": {
+        "localNamesFirst": false,
+        "printOneName": false,
+        "scorecardsBackgroundUrl": "",
+        "competitorsSortingRule": "ranks",
+        "noTasksForNewcomers": false,
+        "tasksForOwnEventsOnly": false,
+        "noRunningForForeigners": false,
+        "printStations": false,
+        "scorecardPaperSize": "letter",
+        "scorecardOrder": "natural",
+        "printScorecardsCoverSheets": false,
+        "printScrambleCheckerForTopRankedCompetitors": false,
+        "printScrambleCheckerForFinalRounds": false,
+        "printScrambleCheckerForBlankScorecards": false
+      }
+    }
+  ],
+  "registrationInfo": {
+    "openTime": "2025-05-23T00:00:00Z",
+    "closeTime": "2025-08-03T03:59:00Z",
+    "baseEntryFee": 2000,
+    "currencyCode": "USD",
+    "onTheSpotRegistration": false,
+    "useWcaRegistration": true
+  }
+}

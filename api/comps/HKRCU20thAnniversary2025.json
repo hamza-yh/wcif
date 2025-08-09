@@ -1,0 +1,561 @@
+{
+  "formatVersion": "1.0",
+  "id": "HKRCU20thAnniversary2025",
+  "name": "HKRCU 20th Anniversary 2025",
+  "shortName": "HKRCU 20th Anniversary 2025",
+  "series": null,
+  "persons": [
+    {
+      "name": "Hong Kong Rubik's Cube Union",
+      "wcaUserId": 23929,
+      "wcaId": null,
+      "registrantId": null,
+      "countryIso2": "HK",
+      "gender": "o",
+      "registration": null,
+      "avatar": null,
+      "roles": [
+        "organizer"
+      ],
+      "assignments": [],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Chan Tak Chuen (陳德泉)",
+      "wcaUserId": 306,
+      "wcaId": "2007CHUE01",
+      "registrantId": null,
+      "countryIso2": "HK",
+      "gender": "m",
+      "registration": null,
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2007CHUE01/1447487301.jpg",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2007CHUE01/1447487301_thumb.jpg"
+      },
+      "roles": [
+        "delegate"
+      ],
+      "assignments": [],
+      "personalBests": [
+        {
+          "eventId": "222",
+          "best": 550,
+          "worldRanking": 35533,
+          "continentalRanking": 10669,
+          "nationalRanking": 254,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 1259,
+          "worldRanking": 20693,
+          "continentalRanking": 7742,
+          "nationalRanking": 170,
+          "type": "average"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1934,
+          "worldRanking": 5792,
+          "continentalRanking": 2202,
+          "nationalRanking": 41,
+          "type": "average"
+        },
+        {
+          "eventId": "444",
+          "best": 4456,
+          "worldRanking": 7322,
+          "continentalRanking": 2588,
+          "nationalRanking": 67,
+          "type": "average"
+        },
+        {
+          "eventId": "555",
+          "best": 9487,
+          "worldRanking": 8093,
+          "continentalRanking": 2686,
+          "nationalRanking": 63,
+          "type": "average"
+        },
+        {
+          "eventId": "clock",
+          "best": 764,
+          "worldRanking": 2041,
+          "continentalRanking": 461,
+          "nationalRanking": 20,
+          "type": "average"
+        },
+        {
+          "eventId": "magic",
+          "best": 105,
+          "worldRanking": 65,
+          "continentalRanking": 40,
+          "nationalRanking": 6,
+          "type": "average"
+        },
+        {
+          "eventId": "mmagic",
+          "best": 274,
+          "worldRanking": 103,
+          "continentalRanking": 62,
+          "nationalRanking": 6,
+          "type": "average"
+        },
+        {
+          "eventId": "sq1",
+          "best": 1881,
+          "worldRanking": 2899,
+          "continentalRanking": 635,
+          "nationalRanking": 29,
+          "type": "average"
+        },
+        {
+          "eventId": "222",
+          "best": 252,
+          "worldRanking": 14561,
+          "continentalRanking": 3697,
+          "nationalRanking": 95,
+          "type": "single"
+        },
+        {
+          "eventId": "333",
+          "best": 1034,
+          "worldRanking": 20499,
+          "continentalRanking": 7414,
+          "nationalRanking": 166,
+          "type": "single"
+        },
+        {
+          "eventId": "333bf",
+          "best": 20289,
+          "worldRanking": 6352,
+          "continentalRanking": 2095,
+          "nationalRanking": 45,
+          "type": "single"
+        },
+        {
+          "eventId": "333oh",
+          "best": 1275,
+          "worldRanking": 2485,
+          "continentalRanking": 818,
+          "nationalRanking": 21,
+          "type": "single"
+        },
+        {
+          "eventId": "444",
+          "best": 3910,
+          "worldRanking": 7726,
+          "continentalRanking": 2689,
+          "nationalRanking": 66,
+          "type": "single"
+        },
+        {
+          "eventId": "555",
+          "best": 8169,
+          "worldRanking": 6939,
+          "continentalRanking": 2310,
+          "nationalRanking": 57,
+          "type": "single"
+        },
+        {
+          "eventId": "clock",
+          "best": 696,
+          "worldRanking": 2787,
+          "continentalRanking": 645,
+          "nationalRanking": 23,
+          "type": "single"
+        },
+        {
+          "eventId": "magic",
+          "best": 96,
+          "worldRanking": 105,
+          "continentalRanking": 67,
+          "nationalRanking": 6,
+          "type": "single"
+        },
+        {
+          "eventId": "mmagic",
+          "best": 244,
+          "worldRanking": 119,
+          "continentalRanking": 75,
+          "nationalRanking": 8,
+          "type": "single"
+        },
+        {
+          "eventId": "sq1",
+          "best": 1373,
+          "worldRanking": 2946,
+          "continentalRanking": 635,
+          "nationalRanking": 27,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    }
+  ],
+  "events": [
+    {
+      "id": "333",
+      "rounds": [
+        {
+          "id": "333-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 30000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": {
+            "type": "ranking",
+            "level": 60
+          },
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        },
+        {
+          "id": "333-r2",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 30000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": {
+            "type": "ranking",
+            "level": 20
+          },
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        },
+        {
+          "id": "333-r3",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 30000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": {
+            "type": "ranking",
+            "level": 10
+          },
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        },
+        {
+          "id": "333-r4",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 30000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    },
+    {
+      "id": "222",
+      "rounds": [
+        {
+          "id": "222-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 6000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": {
+            "type": "ranking",
+            "level": 30
+          },
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        },
+        {
+          "id": "222-r2",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 6000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": {
+            "type": "ranking",
+            "level": 10
+          },
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        },
+        {
+          "id": "222-r3",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 6000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    },
+    {
+      "id": "pyram",
+      "rounds": [
+        {
+          "id": "pyram-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 3000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": {
+            "type": "ranking",
+            "level": 10
+          },
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        },
+        {
+          "id": "pyram-r2",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 3000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    },
+    {
+      "id": "skewb",
+      "rounds": [
+        {
+          "id": "skewb-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 3000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": {
+            "type": "ranking",
+            "level": 10
+          },
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        },
+        {
+          "id": "skewb-r2",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 3000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    }
+  ],
+  "schedule": {
+    "startDate": "2025-09-20",
+    "numberOfDays": 1,
+    "venues": [
+      {
+        "id": 1,
+        "name": "The Wave",
+        "latitudeMicrodegrees": 22309675,
+        "longitudeMicrodegrees": 114224519,
+        "countryIso2": "HK",
+        "timezone": "Asia/Hong_Kong",
+        "rooms": [
+          {
+            "id": 1,
+            "name": "Level 8",
+            "color": "#304a96",
+            "activities": [
+              {
+                "id": 1,
+                "name": "3x3x3 Cube, Round 1",
+                "activityCode": "333-r1",
+                "startTime": "2025-09-20T01:15:00Z",
+                "endTime": "2025-09-20T03:45:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 2,
+                "name": "3x3x3 Cube, Round 2",
+                "activityCode": "333-r2",
+                "startTime": "2025-09-20T06:00:00Z",
+                "endTime": "2025-09-20T07:00:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 3,
+                "name": "Lunch",
+                "activityCode": "other-lunch",
+                "startTime": "2025-09-20T05:00:00Z",
+                "endTime": "2025-09-20T06:00:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 4,
+                "name": "2x2x2 Cube, Round 1",
+                "activityCode": "222-r1",
+                "startTime": "2025-09-20T03:45:00Z",
+                "endTime": "2025-09-20T05:00:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 5,
+                "name": "Pyraminx, Round 1",
+                "activityCode": "pyram-r1",
+                "startTime": "2025-09-20T07:00:00Z",
+                "endTime": "2025-09-20T08:20:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 6,
+                "name": "Skewb, Round 1",
+                "activityCode": "skewb-r1",
+                "startTime": "2025-09-20T08:20:00Z",
+                "endTime": "2025-09-20T09:20:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 7,
+                "name": "2x2x2 Cube, Round 2",
+                "activityCode": "222-r2",
+                "startTime": "2025-09-20T09:20:00Z",
+                "endTime": "2025-09-20T09:45:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 8,
+                "name": "3x3x3 Cube, Round 3",
+                "activityCode": "333-r3",
+                "startTime": "2025-09-20T09:45:00Z",
+                "endTime": "2025-09-20T10:05:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 9,
+                "name": "Pyraminx, Round 2",
+                "activityCode": "pyram-r2",
+                "startTime": "2025-09-20T10:05:00Z",
+                "endTime": "2025-09-20T10:20:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 10,
+                "name": "Skewb, Round 2",
+                "activityCode": "skewb-r2",
+                "startTime": "2025-09-20T10:20:00Z",
+                "endTime": "2025-09-20T10:35:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 11,
+                "name": "2x2x2 Cube, Round 3",
+                "activityCode": "222-r3",
+                "startTime": "2025-09-20T10:35:00Z",
+                "endTime": "2025-09-20T10:50:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 12,
+                "name": "3x3x3 Cube, Round 4",
+                "activityCode": "333-r4",
+                "startTime": "2025-09-20T10:50:00Z",
+                "endTime": "2025-09-20T11:05:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 13,
+                "name": "Awards",
+                "activityCode": "other-awards",
+                "startTime": "2025-09-20T11:05:00Z",
+                "endTime": "2025-09-20T11:35:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 14,
+                "name": "Briefing and demo",
+                "activityCode": "other-misc",
+                "startTime": "2025-09-20T01:00:00Z",
+                "endTime": "2025-09-20T01:15:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 15,
+                "name": "Registration",
+                "activityCode": "other-misc",
+                "startTime": "2025-09-20T00:00:00Z",
+                "endTime": "2025-09-20T01:00:00Z",
+                "childActivities": [],
+                "extensions": []
+              }
+            ],
+            "extensions": []
+          }
+        ],
+        "extensions": []
+      }
+    ]
+  },
+  "competitorLimit": 180,
+  "extensions": [],
+  "registrationInfo": {
+    "openTime": "2025-05-23T12:00:00Z",
+    "closeTime": "2025-06-01T12:00:00Z",
+    "baseEntryFee": 30000,
+    "currencyCode": "HKD",
+    "onTheSpotRegistration": false,
+    "useWcaRegistration": false
+  }
+}
