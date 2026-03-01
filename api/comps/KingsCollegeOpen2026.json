@@ -1,0 +1,379 @@
+{
+  "formatVersion": "1.1",
+  "id": "KingsCollegeOpen2026",
+  "name": "King's College Open 2026",
+  "shortName": "King's College Open 2026",
+  "series": null,
+  "persons": [
+    {
+      "name": "Osereme Ose-Ediale",
+      "wcaUserId": 497218,
+      "wcaId": null,
+      "registrantId": 2,
+      "countryIso2": "NG",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1292941,
+        "eventIds": [
+          "222",
+          "333",
+          "444",
+          "pyram"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Boluwatife Adegbuyi",
+      "wcaUserId": 523337,
+      "wcaId": null,
+      "registrantId": 7,
+      "countryIso2": "NG",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1300511,
+        "eventIds": [
+          "222",
+          "333"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Omokayowale Iyalla",
+      "wcaUserId": 523901,
+      "wcaId": null,
+      "registrantId": 8,
+      "countryIso2": "NG",
+      "gender": "m",
+      "registration": {
+        "wcaRegistrationId": 1302550,
+        "eventIds": [
+          "222",
+          "333",
+          "pyram"
+        ],
+        "status": "accepted",
+        "isCompeting": true
+      },
+      "avatar": null,
+      "roles": [],
+      "assignments": [],
+      "personalBests": [],
+      "extensions": []
+    },
+    {
+      "name": "Kemi Awe",
+      "wcaUserId": 35699,
+      "wcaId": "2019AWEK01",
+      "registrantId": null,
+      "countryIso2": "NG",
+      "gender": "f",
+      "registration": null,
+      "avatar": {
+        "url": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2019AWEK01/1554756381.JPG",
+        "thumbUrl": "https://avatars.worldcubeassociation.org/uploads/user/avatar/2019AWEK01/1554756381_thumb.JPG"
+      },
+      "roles": [
+        "delegate",
+        "organizer"
+      ],
+      "assignments": [],
+      "personalBests": [
+        {
+          "eventId": "333",
+          "best": 12631,
+          "worldRanking": 261614,
+          "continentalRanking": 4168,
+          "nationalRanking": 248,
+          "type": "average"
+        },
+        {
+          "eventId": "333",
+          "best": 8799,
+          "worldRanking": 263502,
+          "continentalRanking": 4148,
+          "nationalRanking": 248,
+          "type": "single"
+        }
+      ],
+      "extensions": []
+    }
+  ],
+  "events": [
+    {
+      "id": "333",
+      "rounds": [
+        {
+          "id": "333-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 60000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": {
+            "type": "percent",
+            "level": 50
+          },
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        },
+        {
+          "id": "333-r2",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 60000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": {
+            "type": "ranking",
+            "level": 10
+          },
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        },
+        {
+          "id": "333-r3",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 60000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    },
+    {
+      "id": "222",
+      "rounds": [
+        {
+          "id": "222-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 60000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": {
+            "type": "ranking",
+            "level": 5
+          },
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        },
+        {
+          "id": "222-r2",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 60000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    },
+    {
+      "id": "444",
+      "rounds": [
+        {
+          "id": "444-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 60000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    },
+    {
+      "id": "pyram",
+      "rounds": [
+        {
+          "id": "pyram-r1",
+          "format": "a",
+          "timeLimit": {
+            "centiseconds": 60000,
+            "cumulativeRoundIds": []
+          },
+          "cutoff": null,
+          "advancementCondition": null,
+          "scrambleSetCount": 1,
+          "results": [],
+          "extensions": []
+        }
+      ],
+      "extensions": [],
+      "qualification": null
+    }
+  ],
+  "schedule": {
+    "startDate": "2026-04-18",
+    "numberOfDays": 1,
+    "venues": [
+      {
+        "id": 1,
+        "name": "King's College, Lagos",
+        "latitudeMicrodegrees": 6450061,
+        "longitudeMicrodegrees": 3399059,
+        "countryIso2": "NG",
+        "timezone": "Africa/Lagos",
+        "rooms": [
+          {
+            "id": 1,
+            "name": "The College Hall",
+            "color": "#304a96",
+            "activities": [
+              {
+                "id": 1,
+                "name": "On-site registration",
+                "activityCode": "other-registration",
+                "startTime": "2026-04-18T07:00:00Z",
+                "endTime": "2026-04-18T08:30:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 2,
+                "name": "Tutorial for new competitors",
+                "activityCode": "other-tutorial",
+                "startTime": "2026-04-18T08:35:00Z",
+                "endTime": "2026-04-18T09:10:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 3,
+                "name": "Pyraminx, Round 1",
+                "activityCode": "pyram-r1",
+                "startTime": "2026-04-18T09:15:00Z",
+                "endTime": "2026-04-18T10:00:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 4,
+                "name": "4x4x4 Cube, Round 1",
+                "activityCode": "444-r1",
+                "startTime": "2026-04-18T12:00:00Z",
+                "endTime": "2026-04-18T12:50:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 5,
+                "name": "2x2x2 Cube, Round 1",
+                "activityCode": "222-r1",
+                "startTime": "2026-04-18T11:10:00Z",
+                "endTime": "2026-04-18T11:50:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 6,
+                "name": "3x3x3 Cube, Round 1",
+                "activityCode": "333-r1",
+                "startTime": "2026-04-18T10:05:00Z",
+                "endTime": "2026-04-18T11:05:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 7,
+                "name": "Lunch",
+                "activityCode": "other-lunch",
+                "startTime": "2026-04-18T13:00:00Z",
+                "endTime": "2026-04-18T13:30:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 8,
+                "name": "3x3x3 Cube, Round 2",
+                "activityCode": "333-r2",
+                "startTime": "2026-04-18T13:35:00Z",
+                "endTime": "2026-04-18T14:15:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 9,
+                "name": "2x2x2 Cube, Round 2",
+                "activityCode": "222-r2",
+                "startTime": "2026-04-18T14:20:00Z",
+                "endTime": "2026-04-18T14:50:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 10,
+                "name": "3x3x3 Cube, Round 3",
+                "activityCode": "333-r3",
+                "startTime": "2026-04-18T15:00:00Z",
+                "endTime": "2026-04-18T15:40:00Z",
+                "childActivities": [],
+                "extensions": []
+              },
+              {
+                "id": 11,
+                "name": "Awards",
+                "activityCode": "other-awards",
+                "startTime": "2026-04-18T15:50:00Z",
+                "endTime": "2026-04-18T16:20:00Z",
+                "childActivities": [],
+                "extensions": []
+              }
+            ],
+            "extensions": []
+          }
+        ],
+        "extensions": []
+      }
+    ]
+  },
+  "competitorLimit": 100,
+  "extensions": [],
+  "registrationInfo": {
+    "openTime": "2026-02-01T00:00:00Z",
+    "closeTime": "2026-04-11T00:00:00Z",
+    "baseEntryFee": 500000,
+    "currencyCode": "NGN",
+    "onTheSpotRegistration": true,
+    "useWcaRegistration": true
+  }
+}

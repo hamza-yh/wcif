@@ -1,0 +1,65 @@
+name: Sync WCIF Data
+permissions:
+  contents: write
+  
+concurrency:
+  group: wcif-sync
+  cancel-in-progress: false
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:           # allows manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    env:
+      DISCORD_BOT_TOKEN: ${{ secrets.DISCORD_BOT_TOKEN }}
+      DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+
+    steps:
+      - name: Checkout latest only
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Use Node.js 18
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Configure npm for public registry
+        run: |
+          npm config set registry https://registry.npmjs.org/
+          npm config set fetch-retries 5
+          npm config set fetch-retry-mintimeout 20000
+          npm config set fetch-retry-maxtimeout 120000
+          
+      - name: Install dependencies (retry)
+        uses: nick-fields/retry@v3
+        with:
+          max_attempts: 3
+          timeout_minutes: 10
+          command: npm ci --audit=false
+
+      - name: Fetch WCIFs and write JSON
+        run: node scripts/fetch.js
+
+      - name: Flatten history & force-push
+        env:
+          REPO_URL: https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+        run: |
+          rm -rf .git
+          git init
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git checkout -b main
+          git add .
+          git commit -m "chore: sync WCIF data"
+          git remote add origin "$REPO_URL"
+          git push --force origin main
